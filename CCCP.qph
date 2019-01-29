@@ -1,0 +1,756 @@
+<!DOCTYPE QPH>
+<QPH language="ja_JP">
+<phrase>
+    <source>Scalar fields</source>
+    <target>スカラー領域</target>
+</phrase>
+<phrase>
+    <source>3D</source>
+    <target>3D</target>
+</phrase>
+<phrase>
+    <source>3D Views</source>
+    <target>3Dビュー</target>
+</phrase>
+<phrase>
+    <source>align</source>
+    <target>位置合わせ</target>
+</phrase>
+<phrase>
+    <source>Arithmetic</source>
+    <target>演算</target>
+</phrase>
+<phrase>
+    <source>camera</source>
+    <target>カメラ</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>キャンセル</target>
+</phrase>
+<phrase>
+    <source>cloud</source>
+    <target>点群</target>
+</phrase>
+<phrase>
+    <source>console</source>
+    <target>コンソール</target>
+</phrase>
+<phrase>
+    <source>current</source>
+    <target>選択された</target>
+</phrase>
+<phrase>
+    <source>Display</source>
+    <target>表示</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>編集</target>
+</phrase>
+<phrase>
+    <source>entities</source>
+    <target>エンティティ</target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target>ファイル</target>
+</phrase>
+<phrase>
+    <source>filter</source>
+    <target>フィルター</target>
+</phrase>
+<phrase>
+    <source>Gaussian filter</source>
+    <target>ガウスフィルター</target>
+</phrase>
+<phrase>
+    <source>Help</source>
+    <target>ヘルプ</target>
+</phrase>
+<phrase>
+    <source>histogram</source>
+    <target>ヒストグラム</target>
+</phrase>
+<phrase>
+    <source>invert</source>
+    <target>反転</target>
+</phrase>
+<phrase>
+    <source>merge</source>
+    <target>結合</target>
+</phrase>
+<phrase>
+    <source>mesh</source>
+    <target>メッシュ</target>
+</phrase>
+<phrase>
+    <source>normals</source>
+    <target>法線</target>
+</phrase>
+<phrase>
+    <source>octree</source>
+    <target>octree</target>
+    <definition>8分木空間分割値</definition>
+</phrase>
+<phrase>
+    <source>Open</source>
+    <target>開く</target>
+</phrase>
+<phrase>
+    <source>Option</source>
+    <target>オプション</target>
+</phrase>
+<phrase>
+    <source>Plugins</source>
+    <target>プラグイン</target>
+</phrase>
+<phrase>
+    <source>rasterize</source>
+    <target>ラスタライズ</target>
+</phrase>
+<phrase>
+    <source>sampling</source>
+    <target>サンプリング</target>
+</phrase>
+<phrase>
+    <source>sample</source>
+    <target>サンプル</target>
+</phrase>
+<phrase>
+    <source>0</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>scalar field (SF)</source>
+    <target>属性値</target>
+</phrase>
+<phrase>
+    <source>Segment</source>
+    <target>分割・抽出（セグメンテーション）</target>
+</phrase>
+<phrase>
+    <source>Syncronize</source>
+    <target>同期</target>
+</phrase>
+<phrase>
+    <source>Tools</source>
+    <target>ツール</target>
+</phrase>
+<phrase>
+    <source>(新しい項目)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Scalar Field</source>
+    <target>スカラー領域</target>
+</phrase>
+<phrase>
+    <source>Sensors</source>
+    <target>センサー</target>
+</phrase>
+<phrase>
+    <source>Terrestrial Laser Sensor = Ground Based Lidar</source>
+    <target>地上レーザー（地上型LiDAR）</target>
+</phrase>
+<phrase>
+    <source>TLS/GBL</source>
+    <target>地上レーザースキャナー</target>
+</phrase>
+<phrase>
+    <source>Toggle (recursive)</source>
+    <target>切り替え</target>
+</phrase>
+<phrase>
+    <source>Waveform</source>
+    <target>Waveform</target>
+</phrase>
+<phrase>
+    <source>Plane</source>
+    <target>平面</target>
+</phrase>
+<phrase>
+    <source>Grid</source>
+    <target>グリッド</target>
+</phrase>
+<phrase>
+    <source>Polyline</source>
+    <target>ポリライン</target>
+</phrase>
+<phrase>
+    <source>3D &amp;Views</source>
+    <target>3Dビュー</target>
+</phrase>
+<phrase>
+    <source>Segmentation</source>
+    <target>分割</target>
+</phrase>
+<phrase>
+    <source>3D &amp;Views</source>
+    <target>3Dビュー&amp;ビュー</target>
+</phrase>
+<phrase>
+    <source>Projection</source>
+    <target>投影</target>
+</phrase>
+<phrase>
+    <source>Statistics</source>
+    <target>統計</target>
+</phrase>
+<phrase>
+    <source>Distances</source>
+    <target>距離</target>
+</phrase>
+<phrase>
+    <source>(新しい項目)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Registration</source>
+    <target>登録</target>
+</phrase>
+<phrase>
+    <source>Other</source>
+    <target>その他</target>
+</phrase>
+<phrase>
+    <source>Sand box (research)</source>
+    <target>サンドボックス</target>
+</phrase>
+<phrase>
+    <source>Fit</source>
+    <target>フィット</target>
+</phrase>
+<phrase>
+    <source>Clean</source>
+    <target>除去</target>
+</phrase>
+<phrase>
+    <source>Volume</source>
+    <target>ボリューム</target>
+</phrase>
+<phrase>
+    <source>Batch export</source>
+    <target>バッチエクスポート</target>
+</phrase>
+<phrase>
+    <source>DB Tree</source>
+    <target>データベースツリー</target>
+</phrase>
+<phrase>
+    <source>Viewing tools</source>
+    <target>ツールを見る</target>
+</phrase>
+<phrase>
+    <source>Console</source>
+    <target>コンソール</target>
+</phrase>
+<phrase>
+    <source>Main tools</source>
+    <target>メインツール</target>
+</phrase>
+<phrase>
+    <source>Scalar field tools</source>
+    <target>属性値ツール</target>
+</phrase>
+<phrase>
+    <source>Properties</source>
+    <target>プロパティ</target>
+</phrase>
+<phrase>
+    <source>&amp;Open</source>
+    <target>&amp;開く</target>
+</phrase>
+<phrase>
+    <source>Ctrl+O</source>
+    <target>Ctrl+O</target>
+</phrase>
+<phrase>
+    <source>&amp;Save</source>
+    <target>&amp;保存</target>
+</phrase>
+<phrase>
+    <source>Save current entity</source>
+    <target>選択された対象を保存</target>
+</phrase>
+<phrase>
+    <source>Ctrl+S</source>
+    <target>Ctrl+S</target>
+</phrase>
+<phrase>
+    <source>&amp;Quit</source>
+    <target>&amp;終了</target>
+</phrase>
+<phrase>
+    <source>Quit</source>
+    <target>終了</target>
+</phrase>
+<phrase>
+    <source>&amp;Full screen</source>
+    <target>&amp;全画面表示</target>
+</phrase>
+<phrase>
+    <source>Switch to full screen</source>
+    <target>全画面表示に切替</target>
+</phrase>
+<phrase>
+    <source>Display settings</source>
+    <target>表示オプション</target>
+</phrase>
+<phrase>
+    <source>&amp;About ...</source>
+    <target>&amp;このソフトウェアについて</target>
+</phrase>
+<phrase>
+    <source>Set unique</source>
+    <target>固有値に設定</target>
+</phrase>
+<phrase>
+    <source>Set a unique color</source>
+    <target>固有の色に設定</target>
+</phrase>
+<phrase>
+    <source>Alt+C</source>
+    <target>Alt+C</target>
+</phrase>
+<phrase>
+    <source>Height Ramp</source>
+    <target>段彩</target>
+</phrase>
+<phrase>
+    <source>Apply a color ramp along X, Y or Z</source>
+    <target>X,Y,Zに応じた段彩の適用</target>
+</phrase>
+<phrase>
+    <source>Compute</source>
+    <target>演算</target>
+</phrase>
+<phrase>
+    <source>Compute unsigned normals (least squares approx.)</source>
+    <target>登録されていない頂点の演算（最小二乗近似）</target>
+</phrase>
+<phrase>
+    <source>Invert</source>
+    <target>反転</target>
+</phrase>
+<phrase>
+    <source>Invert normals</source>
+    <target>法線の反転</target>
+</phrase>
+<phrase>
+    <source>Compute octree</source>
+    <target>octreeの計算</target>
+</phrase>
+<phrase>
+    <source>&amp;Tile</source>
+    <target>&amp;タイル</target>
+</phrase>
+<phrase>
+    <source>&amp;Cascade</source>
+    <target>&amp;カスケード</target>
+</phrase>
+<phrase>
+    <source>New</source>
+    <target>新規</target>
+</phrase>
+<phrase>
+    <source>Clone</source>
+    <target>複製</target>
+</phrase>
+<phrase>
+    <source>Merge multiple clouds</source>
+    <target>複数点群の統合</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>削除</target>
+</phrase>
+<phrase>
+    <source>Finely registers already (roughly) aligned entities (clouds or meshes)</source>
+    <target>精密位置合わせ（点群/メッシュ）</target>
+</phrase>
+<phrase>
+    <source>Cloud/Cloud Dist.</source>
+    <target>距離（点群間）</target>
+</phrase>
+<phrase>
+    <source>Compute cloud/cloud distance</source>
+    <target>点群間距離の計算</target>
+</phrase>
+<phrase>
+    <source>Cloud/Mesh Dist</source>
+    <target>距離（点群とメッシュ）</target>
+</phrase>
+<phrase>
+    <source>Compute cloud/mesh distance</source>
+    <target>点群/メッシュ距離の計算</target>
+</phrase>
+<phrase>
+    <source>Local Statistical test</source>
+    <target>ローカル統計検定</target>
+</phrase>
+<phrase>
+    <source>Apply a local statistical test to separate noise from true differences</source>
+    <target>実際の差から誤差を分けるための局所統計的検定の適用</target>
+</phrase>
+<phrase>
+    <source>Sample Points</source>
+    <target>点のサンプリング</target>
+</phrase>
+<phrase>
+    <source>Sample points on a mesh</source>
+    <target>メッシュ上の点のサンプル</target>
+</phrase>
+<phrase>
+    <source>Label Connected Comp.</source>
+    <target>点群の分割</target>
+</phrase>
+<phrase>
+    <source>Label connected components</source>
+    <target>点群の分割</target>
+</phrase>
+<phrase>
+    <source>Compute stat. params</source>
+    <target>統計値計算</target>
+</phrase>
+<phrase>
+    <source>Fits a statistical model on the active scalar field</source>
+    <target>アクティブスカラー領域への統計モデルの適合</target>
+</phrase>
+<phrase>
+    <source>Filter By Value</source>
+    <target>属性値によるフィルター</target>
+</phrase>
+<phrase>
+    <source>Filter points by value</source>
+    <target>値による点のフィルター</target>
+</phrase>
+<phrase>
+    <source>Filter By Value</source>
+    <target>属性値によるフィルター</target>
+</phrase>
+<phrase>
+    <source>Compute gaussian filter</source>
+    <target>ガウスフィルターの計算</target>
+</phrase>
+<phrase>
+    <source>Gaussian filter</source>
+    <target>ガウスフィルター</target>
+</phrase>
+<phrase>
+    <source>Filter points by value</source>
+    <target>値による点のフィルター</target>
+</phrase>
+<phrase>
+    <source>Filter By Value</source>
+    <target>属性値による抽出・分割</target>
+</phrase>
+<phrase>
+    <source>SF arithmetic</source>
+    <target>スカラー領域の演算</target>
+</phrase>
+<phrase>
+    <source>Add, subtract, multiply or divide two scalar fields</source>
+    <target>スカラー領域の四則演算（加減乗除）</target>
+</phrase>
+<phrase>
+    <source>Colorize</source>
+    <target>カラー化</target>
+</phrase>
+<phrase>
+    <source>Colorize entity (lightness values are unchanged)</source>
+    <target>対象のカラー化（光源値は未変更）</target>
+</phrase>
+<phrase>
+    <source>Smooth</source>
+    <target>平滑化</target>
+</phrase>
+<phrase>
+    <source>Smooth mesh scalar field</source>
+    <target>スカラー領域の平滑化</target>
+</phrase>
+<phrase>
+    <source>Enhance</source>
+    <target>強調</target>
+</phrase>
+<phrase>
+    <source>Enhance Scalar Field</source>
+    <target>スカラー領域の強調</target>
+</phrase>
+<phrase>
+    <source>Clear</source>
+    <target>消去</target>
+</phrase>
+<phrase>
+    <source>Clear colors</source>
+    <target>色の消去</target>
+</phrase>
+<phrase>
+    <source>Delete normals</source>
+    <target>法線の消去</target>
+</phrase>
+<phrase>
+    <source>Resample</source>
+    <target>リサンプル</target>
+</phrase>
+<phrase>
+    <source>Resample entity with octree</source>
+    <target>octreeによる対象のリサンプル</target>
+</phrase>
+<phrase>
+    <source>Delaunay 2.5D (XY plane)</source>
+    <target>ドロネー2.5D（XY平面）</target>
+</phrase>
+<phrase>
+    <source>Compute &quot;2D1/2&quot; mesh by projecting points on the XY plane</source>
+    <target>2D1/2メッシュをXY平面に投影計算</target>
+</phrase>
+<phrase>
+    <source>Delaunay 2.5D (best fitting plane)</source>
+    <target>ドロネー2.5D（ベストフィット平面）</target>
+</phrase>
+<phrase>
+    <source>Compute &quot;2D1/2&quot; mesh by projecting points on the (least squares) best fitting plane</source>
+    <target>2D1/2メッシュを最小二乗法の最適平面に投影計算</target>
+</phrase>
+<phrase>
+    <source>Measure surface</source>
+    <target>表面計算</target>
+</phrase>
+<phrase>
+    <source>Measure mesh surface</source>
+    <target>メッシュ表面計算</target>
+</phrase>
+<phrase>
+    <source>Closest Point Set</source>
+    <target>最短点設定</target>
+</phrase>
+<phrase>
+    <source>Compute closest point set</source>
+    <target>最短点設定計算</target>
+</phrase>
+<phrase>
+    <source>Delete all (!)</source>
+    <target>全て消去(!)</target>
+</phrase>
+<phrase>
+    <source>Delete all scalar fields</source>
+    <target>スカラー領域をすべて消去</target>
+</phrase>
+<phrase>
+    <source>Multiply</source>
+    <target>乗算</target>
+</phrase>
+<phrase>
+    <source>Multiply scalar field by a constant</source>
+    <target>一定をスカラー領域に乗算</target>
+</phrase>
+<phrase>
+    <source>K-Means</source>
+    <target>K-Means</target>
+</phrase>
+<phrase>
+    <source>classify point (K-Means applied on a scalar field)</source>
+    <target>ポイントの分類（スカラー領域でのK-Meansの適用）</target>
+</phrase>
+<phrase>
+    <source>Language Translation</source>
+    <target>表示言語の切替</target>
+</phrase>
+<phrase>
+    <source>Multiply/Scale</source>
+    <target>乗算/スケール</target>
+</phrase>
+<phrase>
+    <source>Multiply coordinates (separately)</source>
+    <target>座標の乗算（分離）</target>
+</phrase>
+<phrase>
+    <source>Match bounding-box centers</source>
+    <target>バウンディングボックスの中央に一致</target>
+</phrase>
+<phrase>
+    <source>Synchronize selected entities bbox centers</source>
+    <target>バウンディングボックスの中央にエンティティを同期</target>
+</phrase>
+<phrase>
+    <source>Unroll</source>
+    <target>展開</target>
+</phrase>
+<phrase>
+    <source>Unroll entity on a cylinder or a cone</source>
+    <target>円柱あるいは円錐への展開</target>
+</phrase>
+<phrase>
+    <source>Gradient</source>
+    <target>傾斜度</target>
+</phrase>
+<phrase>
+    <source>Zoom &amp; Center</source>
+    <target>ズームと中心</target>
+</phrase>
+<phrase>
+    <source>ZoomCenter</source>
+    <target>ズームの中心</target>
+</phrase>
+<phrase>
+    <source>Zoom and center on selected entities (Z)</source>
+    <target>選択したエンティティのズームと中央(Z)</target>
+</phrase>
+<phrase>
+    <source>Z</source>
+    <target>Z</target>
+</phrase>
+<phrase>
+    <source>Top View</source>
+    <target>上面</target>
+</phrase>
+<phrase>
+    <source>Set top view</source>
+    <target>上面にセット</target>
+</phrase>
+<phrase>
+    <source>Front View</source>
+    <target>正面</target>
+</phrase>
+<phrase>
+    <source>Set front view</source>
+    <target>正面にセット</target>
+</phrase>
+<phrase>
+    <source>Back View</source>
+    <target>裏面</target>
+</phrase>
+<phrase>
+    <source>Set back view</source>
+    <target>裏面にセット</target>
+</phrase>
+<phrase>
+    <source>Left Side View</source>
+    <target>左側</target>
+</phrase>
+<phrase>
+    <source>Set left side view</source>
+    <target>左側にセット</target>
+</phrase>
+<phrase>
+    <source>Right Side View</source>
+    <target>右側</target>
+</phrase>
+<phrase>
+    <source>Set right side view</source>
+    <target>右側にセット</target>
+</phrase>
+<phrase>
+    <source>Bottom View</source>
+    <target>下面</target>
+</phrase>
+<phrase>
+    <source>Set bottom view</source>
+    <target>下面にセット</target>
+</phrase>
+<phrase>
+    <source>Main</source>
+    <target>メイン</target>
+</phrase>
+<phrase>
+    <source>Show/hide main toolbar</source>
+    <target>メインツールバーの表示/非表示</target>
+</phrase>
+<phrase>
+    <source>View</source>
+    <target>視点</target>
+</phrase>
+<phrase>
+    <source>Show/hide view toolbar</source>
+    <target>視点ツールバーの表示/非表示</target>
+</phrase>
+<phrase>
+    <source>Show/hide scalar fields toolbar</source>
+    <target>スカラー領域の表示/非表示</target>
+</phrase>
+<phrase>
+    <source>Toggle Sun Light</source>
+    <target>太陽光の移動</target>
+</phrase>
+<phrase>
+    <source>Toggle sun light (active window)</source>
+    <target>太陽光の移動（現在のウィンドウ）</target>
+</phrase>
+<phrase>
+    <source>F6</source>
+    <target>F6</target>
+</phrase>
+<phrase>
+    <source>Toggle Custom Light</source>
+    <target>カスタム光の移動</target>
+</phrase>
+<phrase>
+    <source>Toggle custom light (active window)</source>
+    <target>カスタム光の移動（現在のウィンドウ）</target>
+</phrase>
+<phrase>
+    <source>F7</source>
+    <target>F7</target>
+</phrase>
+<phrase>
+    <source>Global Zoom</source>
+    <target>グローバルズーム</target>
+</phrase>
+<phrase>
+    <source>Toggle Centered Perspective</source>
+    <target>中心投影に切替</target>
+</phrase>
+<phrase>
+    <source>Toggle perspective view (centered on objects) in current window</source>
+    <target>現在のウィンドウを透視図法（オブジェクトの中心）に切替</target>
+</phrase>
+<phrase>
+    <source>Toggle Viewer Based Perspective</source>
+    <target>（オブジェクトの中心）に切替</target>
+</phrase>
+<phrase>
+    <source>Toggle perspective view (centered on viewer) in current window</source>
+    <target>現在のウィンドウを透視図法（ビューワーの中心）に切替</target>
+</phrase>
+<phrase>
+    <source>F4</source>
+    <target>F4</target>
+</phrase>
+<phrase>
+    <source>Refresh</source>
+    <target>更新</target>
+</phrase>
+<phrase>
+    <source>F5</source>
+    <target>F5</target>
+</phrase>
+<phrase>
+    <source>Test Frame Rate</source>
+    <target>フレームレートのテスト</target>
+</phrase>
+<phrase>
+    <source>Render to File</source>
+    <target>ファイルをレンダリング</target>
+</phrase>
+<phrase>
+    <source>About Plugins...</source>
+    <target>プラグインについて</target>
+</phrase>
+<phrase>
+    <source>Convert to RGB</source>
+    <target>RGBに変換</target>
+</phrase>
+<phrase>
+    <source>Convert current scalar field to RGB colors</source>
+    <target>現在のスカラー領域をRGBカラーに変換</target>
+</phrase>
+<phrase>
+    <source>Create/show depth buffer</source>
+    <target>深さ範囲の作成/表示</target>
+</phrase>
+<phrase>
+    <source>Export depth buffer</source>
+    <target>深さ範囲の出力</target>
+</phrase>
+</QPH>
