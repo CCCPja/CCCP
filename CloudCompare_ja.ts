@@ -6,17 +6,17 @@
     <message>
         <location filename="../ui_templates/aboutDlg.ui" line="17"/>
         <source>About CloudCompare</source>
-        <translation type="unfinished"></translation>
+        <translation>CloudCompareについて</translation>
     </message>
     <message>
         <location filename="../ui_templates/aboutDlg.ui" line="38"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/CC/Icons/images/icon/cc_icon_64.png&quot;/&gt;&lt;br/&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;CloudCompare &lt;/span&gt;&lt;span style=&quot; font-size:14pt; font-weight:600; font-style:italic;&quot;&gt;&lt;/span&gt;&lt;br/&gt;Version: %1&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.cloudcompare.org/donate&quot;&gt;&lt;img src=&quot;:/CC/images/donate.png&quot; width=&quot;200&quot;/&gt;&lt;/a&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.cloudcompare.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;www.cloudcompare.org&lt;br/&gt;&lt;/span&gt;&lt;/a&gt;License: GNU GPL (General Public Licence)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/CC/Icons/images/icon/cc_icon_64.png&quot;/&gt;&lt;br/&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;CloudCompare &lt;/span&gt;&lt;span style=&quot; font-size:14pt; font-weight:600; font-style:italic;&quot;&gt;&lt;/span&gt;&lt;br/&gt;Version: %1&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.cloudcompare.org/donate&quot;&gt;&lt;img src=&quot;:/CC/images/donate.png&quot; width=&quot;200&quot;/&gt;&lt;/a&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.cloudcompare.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;www.cloudcompare.org&lt;br/&gt;&lt;/span&gt;&lt;/a&gt;License: GNU GPL (General Public Licence)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../ui_templates/aboutDlg.ui" line="78"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -24,32 +24,32 @@
     <message>
         <location filename="../ui_templates/adjustZoomDlg.ui" line="14"/>
         <source>Adjust zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>ズーム調整</translation>
     </message>
     <message>
         <location filename="../ui_templates/adjustZoomDlg.ui" line="20"/>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウ</translation>
     </message>
     <message>
         <location filename="../ui_templates/adjustZoomDlg.ui" line="49"/>
         <source>zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>ズーム</translation>
     </message>
     <message>
         <location filename="../ui_templates/adjustZoomDlg.ui" line="77"/>
         <source>pixel size</source>
-        <translation type="unfinished"></translation>
+        <translation>ピクセルサイズ</translation>
     </message>
     <message>
         <location filename="../ui_templates/adjustZoomDlg.ui" line="86"/>
         <source> units</source>
-        <translation type="unfinished"></translation>
+        <translation> ユニット</translation>
     </message>
     <message>
         <location filename="../ui_templates/adjustZoomDlg.ui" line="115"/>
         <source> pixel(s)</source>
-        <translation type="unfinished"></translation>
+        <translation> ピクセル</translation>
     </message>
 </context>
 <context>
@@ -57,17 +57,17 @@
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="14"/>
         <source>Clouds alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>点群位置合わせ</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="34"/>
         <source>Model and data</source>
-        <translation type="unfinished"></translation>
+        <translation>モデルとデータ</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="49"/>
         <source>Data:</source>
-        <translation type="unfinished"></translation>
+        <translation>データ:</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="56"/>
@@ -77,12 +77,12 @@
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="77"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>モデル:</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="84"/>
         <source>the model cloud is the reference: it won&apos;t move (red cloud)</source>
-        <translation type="unfinished"></translation>
+        <translation>点群は参照です：動かせません（赤い点群）</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="111"/>
@@ -93,17 +93,17 @@
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="117"/>
         <source>swap</source>
-        <translation type="unfinished"></translation>
+        <translation>交換</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="144"/>
         <source>Alignment parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>位置合わせ設定値</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="152"/>
         <source>Number of trials:</source>
-        <translation type="unfinished"></translation>
+        <translation>試行数:</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="159"/>
@@ -113,17 +113,17 @@
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="182"/>
         <source>Overlap:</source>
-        <translation type="unfinished"></translation>
+        <translation>重なり:</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="189"/>
         <source>Rough estimation of the two clouds overlap rate (between 0 and 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>2つの点群の重なりの大まかな予想値（0から1の間）</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="215"/>
         <source>Delta:</source>
-        <translation type="unfinished"></translation>
+        <translation>デルタ:</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="222"/>
@@ -139,7 +139,7 @@
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="247"/>
         <source>Estimate</source>
-        <translation type="unfinished"></translation>
+        <translation>推計</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="258"/>
@@ -159,23 +159,23 @@
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="306"/>
         <source>Sampling</source>
-        <translation type="unfinished"></translation>
+        <translation>サンプリング</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="314"/>
         <source>Method:</source>
-        <translation type="unfinished"></translation>
+        <translation>方法:</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="326"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>データ</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="346"/>
         <location filename="../ui_templates/alignDlg.ui" line="466"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>なし</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="369"/>
@@ -193,12 +193,12 @@
         <location filename="../ui_templates/alignDlg.ui" line="434"/>
         <location filename="../ui_templates/alignDlg.ui" line="554"/>
         <source>remaining points</source>
-        <translation type="unfinished"></translation>
+        <translation>点の残り</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="446"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>モデル</translation>
     </message>
     <message>
         <location filename="../ui_templates/alignDlg.ui" line="501"/>
@@ -212,37 +212,37 @@
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="14"/>
         <source>Apply transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>変換の適用</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="24"/>
         <source>Matrix 4x4</source>
-        <translation type="unfinished"></translation>
+        <translation>4x4行列</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="32"/>
         <source>Enter 4x4 matrix values:</source>
-        <translation type="unfinished"></translation>
+        <translation>4x4行列の値の入力:</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="52"/>
         <source>Load matrix from ascii file</source>
-        <translation type="unfinished"></translation>
+        <translation>ASCIIファイルからの行列の読み込み</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="55"/>
         <source>ASCII file</source>
-        <translation type="unfinished"></translation>
+        <translation>ASCIIファイル</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="62"/>
         <source>Paste clipboard contents</source>
-        <translation type="unfinished"></translation>
+        <translation>クリップボードの内容を貼り付け</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="65"/>
         <source>clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>クリップボード</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="72"/>
@@ -258,7 +258,7 @@
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="83"/>
         <source>help</source>
-        <translation type="unfinished"></translation>
+        <translation>ヘルプ</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="147"/>
@@ -276,17 +276,17 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="176"/>
         <source>Axis, Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>軸,角度</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="182"/>
         <source>Rotation axis</source>
-        <translation type="unfinished"></translation>
+        <translation>回転軸</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="248"/>
         <source>Rotation angle (degrees)</source>
-        <translation type="unfinished"></translation>
+        <translation>回転角（degrees）</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="263"/>
@@ -297,7 +297,7 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
         <location filename="../ui_templates/applyTransformationDlg.ui" line="295"/>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="447"/>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>変換</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="375"/>
@@ -307,7 +307,7 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="381"/>
         <source>Angles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">角度</translation>
     </message>
     <message>
         <location filename="../ui_templates/applyTransformationDlg.ui" line="530"/>
@@ -320,12 +320,12 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/askOneDoubleValueDlg.ui" line="12"/>
         <source>Set Value</source>
-        <translation type="unfinished"></translation>
+        <translation>値のセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/askOneDoubleValueDlg.ui" line="20"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>値</translation>
     </message>
 </context>
 <context>
@@ -333,12 +333,12 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/askOneIntValueDlg.ui" line="12"/>
         <source>Set Value</source>
-        <translation type="unfinished"></translation>
+        <translation>値のセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/askOneIntValueDlg.ui" line="20"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>値</translation>
     </message>
 </context>
 <context>
@@ -346,12 +346,12 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/askOneStringDlg.ui" line="12"/>
         <source>Set Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名前のセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/askOneStringDlg.ui" line="20"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>ラベル</translation>
     </message>
 </context>
 <context>
@@ -400,72 +400,72 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="14"/>
         <source>Bounding Box Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>バウンディングボックスエディター</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="32"/>
         <source>Min corner</source>
-        <translation type="unfinished"></translation>
+        <translation>最小値コーナー</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="37"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>中心</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="42"/>
         <source>Max corner</source>
-        <translation type="unfinished"></translation>
+        <translation>最大値コーナー</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="57"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>幅</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="211"/>
         <source>Warning, this box doesn&apos;t include the cloud bounding-box!</source>
-        <translation type="unfinished"></translation>
+        <translation>注意: このボックスには点群のバウンティングボックスが含まれていません!</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="227"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>向き</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="488"/>
         <source>automatically compute Z if checked</source>
-        <translation type="unfinished"></translation>
+        <translation>チェックするとZが自動演算されます</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="504"/>
         <source>automatically compute Y if checked</source>
-        <translation type="unfinished"></translation>
+        <translation>チェックするとYが自動演算されます</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="517"/>
         <source>automatically compute X if checked</source>
-        <translation type="unfinished"></translation>
+        <translation>チェックするとXが自動演算されます</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="548"/>
         <source>keep square</source>
-        <translation type="unfinished"></translation>
+        <translation>スクエアを保持</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="568"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>初期設定</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="575"/>
         <source>Last</source>
-        <translation type="unfinished"></translation>
+        <translation>最後</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="582"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../ui_templates/boundingBoxEditorDlg.ui" line="589"/>
@@ -478,97 +478,97 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="14"/>
         <source>Sensor parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>センサーの値</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="24"/>
         <source>Position + Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>位置+向き</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="127"/>
         <source>sensor front direction (yaw = 0)</source>
-        <translation type="unfinished"></translation>
+        <translation>センサーの前方向（Yaw=0）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="130"/>
         <source>X (right)</source>
-        <translation type="unfinished"></translation>
+        <translation>X(右)</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="140"/>
         <source>sensor lateral direction</source>
-        <translation type="unfinished"></translation>
+        <translation>センサー横方向</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="143"/>
         <source>Y (up)</source>
-        <translation type="unfinished"></translation>
+        <translation>Y(上)</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="153"/>
         <source>sensor vertical direction (pitch = 0)</source>
-        <translation type="unfinished"></translation>
+        <translation>センサー垂直方法（Pitch=0）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="156"/>
         <source>Z (inv. view dir.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Z(視野方向の反転)</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="166"/>
         <source>sensor center</source>
-        <translation type="unfinished"></translation>
+        <translation>センサー中央</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="169"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>中央</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="180"/>
         <source>Intrinsic params</source>
-        <translation type="unfinished"></translation>
+        <translation>組み込みパラメーター</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="186"/>
         <source>vert. focal</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直焦点</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="193"/>
         <source>vertical focal (in pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直焦点（ピクセル内）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="196"/>
         <source> pix</source>
-        <translation type="unfinished"></translation>
+        <translation> ピクセル</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="212"/>
         <source>vert. f.o.v.</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直視野界</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="219"/>
         <source>Vertical field of view (degrees)</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直視野界（角度）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="222"/>
         <source> deg.</source>
-        <translation type="unfinished"></translation>
+        <translation> 度</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="235"/>
         <source>array size</source>
-        <translation type="unfinished"></translation>
+        <translation>アレイサイズ</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="244"/>
         <source>CCD array width (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>CCDアレイ幅（ピクセル）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="247"/>
@@ -576,32 +576,32 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="435"/>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="464"/>
         <source> pix.</source>
-        <translation type="unfinished"></translation>
+        <translation> ピクセル</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="270"/>
         <source>CCD array height (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>CCDアレイ高(ピクセル)</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="304"/>
         <source>Pixel size (metric units)</source>
-        <translation type="unfinished"></translation>
+        <translation>ピクセルサイズ（メトリック&#x3000;単位）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="307"/>
         <source>pixel size</source>
-        <translation type="unfinished"></translation>
+        <translation>ピクセルサイズ</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="316"/>
         <source>CCD pixel width (metric units)</source>
-        <translation type="unfinished"></translation>
+        <translation>CCD&#x3000;ピクセル幅（メトリック&#x3000;単位）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="339"/>
         <source>CCD pixel height (metric units)</source>
-        <translation type="unfinished"></translation>
+        <translation>CCD&#x3000;ピクセル高（メトリック&#x3000;単位）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="370"/>
@@ -659,136 +659,136 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="20"/>
         <source>Clipping Box</source>
-        <translation type="unfinished"></translation>
+        <translation>クリッピングボックス</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="28"/>
         <source>Show/hide bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>バウンディングボックスを表示/隠す</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="48"/>
         <source>Show/hide interactors</source>
-        <translation type="unfinished"></translation>
+        <translation>インタラクターの表示/隠す</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="84"/>
         <source>Restore the last clipping box used with this cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>このクラウドの最後のクリッピングボックスを復元</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="101"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="104"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>リセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="121"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="124"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="143"/>
         <source>Box thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>ボックス厚さ</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="215"/>
         <source>advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>高度</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="242"/>
         <source>Contour</source>
-        <translation type="unfinished"></translation>
+        <translation>等高線</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="266"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="269"/>
         <source>Extracts the contour as a polyline (concave hull)</source>
-        <translation type="unfinished"></translation>
+        <translation>ポリラインで輪郭を抽出（凹包）</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="286"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="289"/>
         <source>Removes last extracted contour</source>
-        <translation type="unfinished"></translation>
+        <translation>最後に抽出した等高線を削除</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="303"/>
         <source>Slices</source>
-        <translation type="unfinished"></translation>
+        <translation>スライス</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="327"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="330"/>
         <source>Export selection as a new cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>新しい点群として選択を出力</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="341"/>
         <source>Export multiple slices by repeating the process along one or several dimensions (+ contour extraction)</source>
-        <translation type="unfinished"></translation>
+        <translation>単・複数次元による過程の繰り返しにより複数スライスをエクスポートする（輪郭抽出）</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="407"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="410"/>
         <source>Set &apos;left&apos; view</source>
-        <translation type="unfinished"></translation>
+        <translation>左ビューにセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="421"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="424"/>
         <source>Set &apos;right&apos; view</source>
-        <translation type="unfinished"></translation>
+        <translation>右ビューにセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="435"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="438"/>
         <source>Set &apos;front&apos; view</source>
-        <translation type="unfinished"></translation>
+        <translation>前ビューにセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="449"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="452"/>
         <source>Set &apos;back&apos; view</source>
-        <translation type="unfinished"></translation>
+        <translation>後ビューにセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="463"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="466"/>
         <source>Set &apos;down&apos; view</source>
-        <translation type="unfinished"></translation>
+        <translation>下ビューにセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="477"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="480"/>
         <source>Set &apos;up&apos; view</source>
-        <translation type="unfinished"></translation>
+        <translation>上ビューにセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="513"/>
         <source>Shift box</source>
-        <translation type="unfinished"></translation>
+        <translation>ボックス移動</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="556"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="578"/>
         <source>Shift box along its X dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>X方向にボックス移動</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="600"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="622"/>
         <source>Shift box along its Y dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>Y方向にボックス移動</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="644"/>
         <location filename="../ui_templates/clippingBoxDlg.ui" line="666"/>
         <source>Shift box along its Z dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>Z方向にボックス移動</translation>
     </message>
 </context>
 <context>
@@ -796,7 +796,7 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/clippingBoxRepeatDlg.ui" line="14"/>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">繰り返す</translation>
     </message>
     <message>
         <location filename="../ui_templates/clippingBoxRepeatDlg.ui" line="20"/>
@@ -1093,17 +1093,17 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="14"/>
         <source>Distance computation</source>
-        <translation type="unfinished"></translation>
+        <translation>距離演算</translation>
     </message>
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="26"/>
         <source>Compared</source>
-        <translation type="unfinished"></translation>
+        <translation>比較</translation>
     </message>
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="44"/>
         <source>Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>参照</translation>
     </message>
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="60"/>
@@ -1123,7 +1123,7 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="81"/>
         <source>Octree level</source>
-        <translation type="unfinished"></translation>
+        <translation>Octreeレベル</translation>
     </message>
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="91"/>
@@ -1134,7 +1134,7 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="94"/>
         <source>max. distance</source>
-        <translation type="unfinished"></translation>
+        <translation>最大距離</translation>
     </message>
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="120"/>
@@ -1239,7 +1239,7 @@ to help you set the general parameters</source>
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="509"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../ui_templates/comparisonDlg.ui" line="516"/>
@@ -1252,7 +1252,7 @@ to help you set the general parameters</source>
     <message>
         <location filename="../ui_templates/computeOctreeDlg.ui" line="14"/>
         <source>Compute Octree</source>
-        <translation type="unfinished"></translation>
+        <translation>Octree演算</translation>
     </message>
     <message>
         <location filename="../ui_templates/computeOctreeDlg.ui" line="20"/>
@@ -1262,7 +1262,7 @@ to help you set the general parameters</source>
     <message>
         <location filename="../ui_templates/computeOctreeDlg.ui" line="27"/>
         <source>Octree box</source>
-        <translation type="unfinished"></translation>
+        <translation>Octreeボックス</translation>
     </message>
     <message>
         <location filename="../ui_templates/computeOctreeDlg.ui" line="33"/>
@@ -1295,12 +1295,12 @@ to help you set the general parameters</source>
     <message>
         <location filename="../ui_templates/contourExtractorDlg.ui" line="44"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージ</translation>
     </message>
     <message>
         <location filename="../ui_templates/contourExtractorDlg.ui" line="57"/>
         <source>no message</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージなし</translation>
     </message>
     <message>
         <location filename="../ui_templates/contourExtractorDlg.ui" line="64"/>
@@ -1499,7 +1499,7 @@ The bigger the more accurate the map will be
     <message>
         <location filename="../ui_templates/exportCoordToSFDlg.ui" line="14"/>
         <source>Export coordinates to SF</source>
-        <translation type="unfinished"></translation>
+        <translation>スカラー領域への段彩出力</translation>
     </message>
     <message>
         <location filename="../ui_templates/exportCoordToSFDlg.ui" line="29"/>
@@ -1517,7 +1517,7 @@ The bigger the more accurate the map will be
     <message>
         <location filename="../ui_templates/filterByValueDlg.ui" line="14"/>
         <source>Filter by value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">属性値による抽出・分割</translation>
     </message>
     <message>
         <location filename="../ui_templates/filterByValueDlg.ui" line="22"/>
@@ -2225,43 +2225,43 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="26"/>
         <source>CloudCompare</source>
-        <translation type="unfinished">CloudCompare</translation>
+        <translation>CloudCompare</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="47"/>
         <source>&amp;File</source>
-        <translation type="unfinished">&amp;ファイル</translation>
+        <translation>&amp;ファイル</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="61"/>
         <source>&amp;Display</source>
-        <translation type="unfinished">&amp;表示</translation>
+        <translation>&amp;表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="65"/>
         <source>Toolbars</source>
-        <translation type="unfinished">ツールバー</translation>
+        <translation>ツールバー</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="73"/>
         <source>Lights</source>
-        <translation type="unfinished">ライト</translation>
+        <translation>ライト</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="84"/>
         <source>Active scalar field</source>
-        <translation type="unfinished">スカラーフィールドを有効化</translation>
+        <translation>スカラーフィールドを有効化</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="92"/>
         <source>Language Translation</source>
-        <translation type="unfinished">表示言語の切替</translation>
+        <translation>翻訳</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="122"/>
         <location filename="../ui_templates/mainWindow.ui" line="852"/>
         <source>&amp;Help</source>
-        <translation type="unfinished">&amp;ヘルプ</translation>
+        <translation>&amp;ヘルプ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="132"/>
@@ -2280,89 +2280,89 @@ Note: the diagonal is not tested at loading time.</source>
         <location filename="../ui_templates/mainWindow.ui" line="164"/>
         <location filename="../ui_templates/mainWindow.ui" line="1964"/>
         <source>Colors</source>
-        <translation type="unfinished">色</translation>
+        <translation>色</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="179"/>
         <location filename="../ui_templates/mainWindow.ui" line="1950"/>
         <source>Normals</source>
-        <translation type="unfinished">法線</translation>
+        <translation>法線</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="183"/>
         <source>Orient normals</source>
-        <translation type="unfinished">法線方向</translation>
+        <translation>法線方向</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="190"/>
         <source>Convert to</source>
-        <translation type="unfinished">変換</translation>
+        <translation>変換</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="204"/>
         <source>Octree</source>
-        <translation type="unfinished">Octree</translation>
+        <translation>Octree</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="212"/>
         <source>Mesh</source>
-        <translation type="unfinished">メッシュ</translation>
+        <translation>メッシュ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="216"/>
         <source>Scalar Field</source>
-        <translation type="unfinished">スカラー領域</translation>
+        <translation>スカラー領域</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="239"/>
         <source>Sensors</source>
-        <translation type="unfinished">センサー</translation>
+        <translation>センサー</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="243"/>
         <source>Terrestrial Laser Sensor = Ground Based Lidar</source>
-        <translation type="unfinished">地上レーザー（地上型LiDAR）</translation>
+        <translation>地上レーザー（地上型LiDAR）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="246"/>
         <source>TLS/GBL</source>
-        <translation type="unfinished">地上レーザースキャナー</translation>
+        <translation>地上レーザースキャナー</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="260"/>
         <source>Camera</source>
-        <translation type="unfinished">カメラ</translation>
+        <translation>カメラ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="282"/>
         <source>Toggle (recursive)</source>
-        <translation type="unfinished">切り替え</translation>
+        <translation>切り替え</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="294"/>
         <source>Waveform</source>
-        <translation type="unfinished">Waveform</translation>
+        <translation>Waveform</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="301"/>
         <location filename="../ui_templates/mainWindow.ui" line="1907"/>
         <source>Plane</source>
-        <translation type="unfinished">平面</translation>
+        <translation>平面</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="309"/>
         <source>Grid</source>
-        <translation type="unfinished">グリッド</translation>
+        <translation>グリッド</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="316"/>
         <source>Polyline</source>
-        <translation type="unfinished">ポリライン</translation>
+        <translation>ポリライン</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="349"/>
         <source>3D &amp;Views</source>
-        <translation type="unfinished">3Dビュー</translation>
+        <translation>3D&amp;ビュー</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="367"/>
@@ -2372,97 +2372,97 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="371"/>
         <source>Segmentation</source>
-        <translation type="unfinished">分割</translation>
+        <translation>分割</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="382"/>
         <source>Projection</source>
-        <translation type="unfinished">投影</translation>
+        <translation>投影</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="392"/>
         <source>Statistics</source>
-        <translation type="unfinished">統計</translation>
+        <translation>統計</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="399"/>
         <source>Distances</source>
-        <translation type="unfinished">距離</translation>
+        <translation>距離</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="407"/>
         <source>Registration</source>
-        <translation type="unfinished">登録</translation>
+        <translation>登録</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="416"/>
         <source>Other</source>
-        <translation type="unfinished">その他</translation>
+        <translation>その他</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="425"/>
         <source>Sand box (research)</source>
-        <translation type="unfinished">サンドボックス</translation>
+        <translation>サンドボックス</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="448"/>
         <location filename="../ui_templates/mainWindow.ui" line="2862"/>
         <source>Fit</source>
-        <translation type="unfinished">フィット</translation>
+        <translation>フィット</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="457"/>
         <source>Clean</source>
-        <translation type="unfinished">除去</translation>
+        <translation>除去</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="464"/>
         <source>Volume</source>
-        <translation type="unfinished">ボリューム</translation>
+        <translation>ボリューム</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="470"/>
         <source>Batch export</source>
-        <translation type="unfinished">バッチエクスポート</translation>
+        <translation>バッチエクスポート</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="515"/>
         <source>DB Tree</source>
-        <translation type="unfinished">データベースツリー</translation>
+        <translation>データベースツリー</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="569"/>
         <location filename="../ui_templates/mainWindow.ui" line="572"/>
         <source>Viewing tools</source>
-        <translation type="unfinished">ツールを見る</translation>
+        <translation>ツールを見る</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="623"/>
         <location filename="../ui_templates/mainWindow.ui" line="951"/>
         <source>Console</source>
-        <translation type="unfinished">コンソール</translation>
+        <translation>コンソール</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="663"/>
         <location filename="../ui_templates/mainWindow.ui" line="666"/>
         <source>Main tools</source>
-        <translation type="unfinished">メインツール</translation>
+        <translation>メインツール</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="702"/>
         <location filename="../ui_templates/mainWindow.ui" line="705"/>
         <source>Scalar field tools</source>
-        <translation type="unfinished">属性値ツール</translation>
+        <translation>属性値ツール</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="735"/>
         <source>Properties</source>
-        <translation type="unfinished">プロパティ</translation>
+        <translation>プロパティ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="782"/>
         <source>&amp;Open</source>
-        <translation type="unfinished">&amp;開く</translation>
+        <translation>&amp;開く</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="785"/>
@@ -2472,53 +2472,53 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="788"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished">Ctrl+O</translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="797"/>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;保存</translation>
+        <translation>&amp;保存</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="800"/>
         <source>Save current entity</source>
-        <translation type="unfinished">選択された対象を保存</translation>
+        <translation>選択された対象を保存</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="803"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="811"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;終了</translation>
+        <translation>&amp;終了</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="814"/>
         <source>Quit</source>
-        <translation type="unfinished">終了</translation>
+        <translation>終了</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="826"/>
         <source>&amp;Full screen</source>
-        <translation type="unfinished">&amp;全画面表示</translation>
+        <translation>&amp;全画面表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="829"/>
         <location filename="../ui_templates/mainWindow.ui" line="832"/>
         <source>Switch to full screen</source>
-        <translation type="unfinished">全画面表示に切替</translation>
+        <translation>全画面表示に切替</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="835"/>
         <source>F9</source>
-        <translation type="unfinished">F9</translation>
+        <translation>F9</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="847"/>
         <source>Display settings</source>
-        <translation type="unfinished">表示オプション</translation>
+        <translation>表示オプション</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="855"/>
@@ -2528,220 +2528,220 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="858"/>
         <source>F1</source>
-        <translation type="unfinished">F1</translation>
+        <translation>F1</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="863"/>
         <source>&amp;About ...</source>
-        <translation type="unfinished">&amp;このソフトウェアについて ...</translation>
+        <translation>&amp;このソフトウェアについて ...</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="866"/>
         <source>About</source>
-        <translation type="unfinished">このソフトウェアについて</translation>
+        <translation>このソフトウェアについて</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="875"/>
         <source>Set unique</source>
-        <translation type="unfinished">固有値に設定</translation>
+        <translation>固有値に設定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="878"/>
         <location filename="../ui_templates/mainWindow.ui" line="881"/>
         <source>Set a unique color</source>
-        <translation type="unfinished">固有の色に設定</translation>
+        <translation>固有の色に設定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="884"/>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="889"/>
         <source>Height Ramp</source>
-        <translation type="unfinished">段彩</translation>
+        <translation>段彩</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="892"/>
         <location filename="../ui_templates/mainWindow.ui" line="895"/>
         <source>Apply a color ramp along X, Y or Z</source>
-        <translation type="unfinished">X,Y,Zに応じた段彩の適用</translation>
+        <translation>X,Y,Zに応じた段彩の適用</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="904"/>
         <location filename="../ui_templates/mainWindow.ui" line="930"/>
         <source>Compute</source>
-        <translation type="unfinished">演算</translation>
+        <translation>演算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="907"/>
         <location filename="../ui_templates/mainWindow.ui" line="910"/>
         <source>Compute unsigned normals (least squares approx.)</source>
-        <translation type="unfinished">登録されていない頂点の演算（最小二乗近似）</translation>
+        <translation>登録されていない頂点の演算（最小二乗近似）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="915"/>
         <source>Invert</source>
-        <translation type="unfinished">反転</translation>
+        <translation>反転</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="918"/>
         <location filename="../ui_templates/mainWindow.ui" line="921"/>
         <source>Invert normals</source>
-        <translation type="unfinished">法線の反転</translation>
+        <translation>法線の反転</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="933"/>
         <location filename="../ui_templates/mainWindow.ui" line="936"/>
         <source>Compute octree</source>
-        <translation type="unfinished">octreeの計算</translation>
+        <translation>octreeの計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="954"/>
         <source>F8</source>
-        <translation type="unfinished">F8</translation>
+        <translation>F8</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="962"/>
         <source>Cl&amp;ose</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>&amp;閉じる</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="965"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished">Ctrl+F4</translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="970"/>
         <source>Close &amp;All</source>
-        <translation type="unfinished">全て閉じる</translation>
+        <translation>&amp;全て閉じる</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="975"/>
         <source>&amp;Tile</source>
-        <translation type="unfinished">&amp;タイル</translation>
+        <translation>&amp;タイル</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="980"/>
         <source>&amp;Cascade</source>
-        <translation type="unfinished">&amp;カスケード</translation>
+        <translation>&amp;カスケード</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="985"/>
         <source>Pre&amp;vious</source>
-        <translation type="unfinished">前</translation>
+        <translation>&amp;前</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="990"/>
         <source>Ne&amp;xt</source>
-        <translation type="unfinished">次</translation>
+        <translation>&amp;次</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="995"/>
         <source>New</source>
-        <translation type="unfinished">新規</translation>
+        <translation>新規</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="998"/>
         <source>Ctrl+F3</source>
-        <translation type="unfinished">Ctrl+F3</translation>
+        <translation>Ctrl+F3</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1007"/>
         <source>Clone</source>
-        <translation type="unfinished">複製</translation>
+        <translation>複製</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1010"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clone the selected entities&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(yes Claire ... these are Nyan sheep!)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;選択対象の複製&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(yes Claire ... these are Nyan sheep!)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;選択対象の複製&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(yes Claire ... these are Nyan sheep!)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1019"/>
         <source>Merge</source>
-        <translation type="unfinished">結合</translation>
+        <translation>結合</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1022"/>
         <source>Merge multiple clouds</source>
-        <translation type="unfinished">複数点群の統合</translation>
+        <translation>複数点群の統合</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1031"/>
         <location filename="../ui_templates/mainWindow.ui" line="1211"/>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1034"/>
         <source>Del</source>
-        <translation type="unfinished">Del</translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1046"/>
         <source>Fine registration (ICP)</source>
-        <translation type="unfinished">ICP</translation>
+        <translation>ICP</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1049"/>
         <location filename="../ui_templates/mainWindow.ui" line="1052"/>
         <source>Finely registers already (roughly) aligned entities (clouds or meshes)</source>
-        <translation type="unfinished">精密位置合わせ（点群/メッシュ）</translation>
+        <translation>精密位置合わせ（点群/メッシュ）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1061"/>
         <source>Cloud/Cloud Dist.</source>
-        <translation type="unfinished">距離（点群間）</translation>
+        <translation>距離（点群間）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1064"/>
         <location filename="../ui_templates/mainWindow.ui" line="1067"/>
         <source>Compute cloud/cloud distance</source>
-        <translation type="unfinished">点群間距離の計算</translation>
+        <translation>点群間距離の計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1076"/>
         <source>Cloud/Mesh Dist</source>
-        <translation type="unfinished">距離（点群とメッシュ）</translation>
+        <translation>距離（点群とメッシュ）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1079"/>
         <location filename="../ui_templates/mainWindow.ui" line="1082"/>
         <source>Compute cloud/mesh distance</source>
-        <translation type="unfinished">点群/メッシュ距離の計算</translation>
+        <translation>点群/メッシュ距離の計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1091"/>
         <source>Local Statistical test</source>
-        <translation type="unfinished">ローカル統計検定</translation>
+        <translation>ローカル統計検定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1094"/>
         <location filename="../ui_templates/mainWindow.ui" line="1097"/>
         <source>Apply a local statistical test to separate noise from true differences</source>
-        <translation type="unfinished">実際の差から誤差を分けるための局所統計的検定の適用</translation>
+        <translation>実際の差から誤差を分けるための局所統計的検定の適用</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1106"/>
         <source>Sample Points</source>
-        <translation type="unfinished">点のサンプリング</translation>
+        <translation>点のサンプリング</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1109"/>
         <location filename="../ui_templates/mainWindow.ui" line="1112"/>
         <source>Sample points on a mesh</source>
-        <translation type="unfinished">メッシュ上の点のサンプル</translation>
+        <translation>メッシュ上の点のサンプル</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1121"/>
         <source>Label Connected Comp.</source>
-        <translation type="unfinished">点群の分割</translation>
+        <translation>点群の分割</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1124"/>
         <location filename="../ui_templates/mainWindow.ui" line="1127"/>
         <source>Label connected components</source>
-        <translation type="unfinished">点群の分割</translation>
+        <translation>点群の分割</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1136"/>
@@ -2751,12 +2751,12 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1157"/>
         <source>Show histogram</source>
-        <translation type="unfinished">ヒストグラム</translation>
+        <translation>ヒストグラム</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1166"/>
         <source>Compute stat. params</source>
-        <translation type="unfinished">統計値計算</translation>
+        <translation>統計値計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1169"/>
@@ -2764,1582 +2764,1585 @@ Note: the diagonal is not tested at loading time.</source>
         <location filename="../ui_templates/mainWindow.ui" line="2560"/>
         <location filename="../ui_templates/mainWindow.ui" line="2563"/>
         <source>Fits a statistical model on the active scalar field</source>
-        <translation type="unfinished">アクティブスカラー領域への統計モデルの適合</translation>
+        <translation>アクティブスカラー領域への統計モデルの適合</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1181"/>
         <source>Filter By Value</source>
-        <translation type="unfinished">属性値による抽出・分割</translation>
+        <translation>属性値による抽出・分割</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1184"/>
         <location filename="../ui_templates/mainWindow.ui" line="1187"/>
         <source>Filter points by value</source>
-        <translation type="unfinished">値による点のフィルター</translation>
+        <translation>値による点のフィルター</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1196"/>
         <source>Gaussian filter</source>
-        <translation type="unfinished">ガウスフィルター</translation>
+        <translation>ガウスフィルター</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1199"/>
         <location filename="../ui_templates/mainWindow.ui" line="1202"/>
         <source>Compute gaussian filter</source>
-        <translation type="unfinished">ガウスフィルターの計算</translation>
+        <translation>ガウスフィルターの計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1214"/>
         <source>Delete Scalar Field</source>
-        <translation type="unfinished">スカラー領域の削除</translation>
+        <translation>スカラー領域の削除</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1217"/>
         <location filename="../ui_templates/mainWindow.ui" line="1220"/>
         <source>Delete current scalar field</source>
-        <translation type="unfinished">選択された属性を削除</translation>
+        <translation>選択された属性を削除</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1229"/>
         <source>Arithmetic</source>
-        <translation type="unfinished">演算</translation>
+        <translation>演算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1232"/>
         <source>SF arithmetic</source>
-        <translation type="unfinished">スカラー領域の演算</translation>
+        <translation>スカラー領域の演算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1235"/>
         <location filename="../ui_templates/mainWindow.ui" line="1238"/>
         <source>Add, subtract, multiply or divide two scalar fields</source>
-        <translation type="unfinished">スカラー領域の四則演算（加減乗除）</translation>
+        <translation>スカラー領域の四則演算（加減乗除）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1243"/>
         <source>Colorize</source>
-        <translation type="unfinished">カラー化</translation>
+        <translation>カラー化</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1246"/>
         <location filename="../ui_templates/mainWindow.ui" line="1249"/>
         <source>Colorize entity (lightness values are unchanged)</source>
-        <translation type="unfinished">対象のカラー化（光源値は未変更）</translation>
+        <translation>対象のカラー化（光源値は未変更）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1254"/>
         <source>Smooth</source>
-        <translation type="unfinished">平滑化</translation>
+        <translation>平滑化</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1257"/>
         <location filename="../ui_templates/mainWindow.ui" line="1260"/>
         <source>Smooth mesh scalar field</source>
-        <translation type="unfinished">スカラー領域の平滑化</translation>
+        <translation>スカラー領域の平滑化</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1265"/>
         <source>Enhance</source>
-        <translation type="unfinished">強調</translation>
+        <translation>強調</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1268"/>
         <location filename="../ui_templates/mainWindow.ui" line="1271"/>
         <source>Enhance Scalar Field</source>
-        <translation type="unfinished">スカラー領域の強調</translation>
+        <translation>スカラー領域の強調</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1280"/>
         <location filename="../ui_templates/mainWindow.ui" line="1295"/>
         <source>Clear</source>
-        <translation type="unfinished">消去</translation>
+        <translation>消去</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1283"/>
         <location filename="../ui_templates/mainWindow.ui" line="1286"/>
         <source>Clear colors</source>
-        <translation type="unfinished">色の消去</translation>
+        <translation>色の消去</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1298"/>
         <location filename="../ui_templates/mainWindow.ui" line="1301"/>
         <source>Delete normals</source>
-        <translation type="unfinished">法線の消去</translation>
+        <translation>法線の消去</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1306"/>
         <source>Resample</source>
-        <translation type="unfinished">リサンプル</translation>
+        <translation>リサンプル</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1309"/>
         <location filename="../ui_templates/mainWindow.ui" line="1312"/>
         <source>Resample entity with octree</source>
-        <translation type="unfinished">octreeによる対象のリサンプル</translation>
+        <translation>octreeによる対象のリサンプル</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1317"/>
         <source>Delaunay 2.5D (XY plane)</source>
-        <translation type="unfinished">ドロネー2.5D（XY平面）</translation>
+        <translation>ドロネー2.5D（XY平面）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1320"/>
         <location filename="../ui_templates/mainWindow.ui" line="1323"/>
         <source>Compute &quot;2D1/2&quot; mesh by projecting points on the XY plane</source>
-        <translation type="unfinished">2D1/2メッシュをXY平面に投影計算</translation>
+        <translation>2D1/2メッシュをXY平面に投影計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1328"/>
         <source>Delaunay 2.5D (best fitting plane)</source>
-        <translation type="unfinished">ドロネー2.5D（ベストフィット平面）</translation>
+        <translation>ドロネー2.5D（ベストフィット平面）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1331"/>
         <location filename="../ui_templates/mainWindow.ui" line="1334"/>
         <source>Compute &quot;2D1/2&quot; mesh by projecting points on the (least squares) best fitting plane</source>
-        <translation type="unfinished">2D1/2メッシュを最小二乗法の最適平面に投影計算</translation>
+        <translation>2D1/2メッシュを最小二乗法の最適平面に投影計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1339"/>
         <source>Measure surface</source>
-        <translation type="unfinished">表面計算</translation>
+        <translation>表面計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1342"/>
         <location filename="../ui_templates/mainWindow.ui" line="1345"/>
         <source>Measure mesh surface</source>
-        <translation type="unfinished">メッシュ表面計算</translation>
+        <translation>メッシュ表面計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1350"/>
         <source>Closest Point Set</source>
-        <translation type="unfinished">最短点設定</translation>
+        <translation>最短点設定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1353"/>
         <location filename="../ui_templates/mainWindow.ui" line="1356"/>
         <source>Compute closest point set</source>
-        <translation type="unfinished">最短点設定計算</translation>
+        <translation>最短点設定計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1361"/>
         <source>Delete all (!)</source>
-        <translation type="unfinished">全て消去(!)</translation>
+        <translation>全て消去(!)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1364"/>
         <location filename="../ui_templates/mainWindow.ui" line="1367"/>
         <source>Delete all scalar fields</source>
-        <translation type="unfinished">スカラー領域をすべて消去</translation>
+        <translation>スカラー領域をすべて消去</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1372"/>
         <source>Multiply</source>
-        <translation type="unfinished">乗算</translation>
+        <translation>乗算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1375"/>
         <location filename="../ui_templates/mainWindow.ui" line="1378"/>
         <source>Multiply scalar field by a constant</source>
-        <translation type="unfinished">一定をスカラー領域に乗算</translation>
+        <translation>一定をスカラー領域に乗算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1386"/>
         <source>K-Means</source>
-        <translation type="unfinished">K-Means</translation>
+        <translation>K-Means</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1389"/>
         <location filename="../ui_templates/mainWindow.ui" line="1392"/>
         <source>classify point (K-Means applied on a scalar field)</source>
-        <translation type="unfinished">ポイントの分類（スカラー領域でのK-Meansの適用）</translation>
+        <translation>ポイントの分類（スカラー領域でのK-Meansの適用）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1400"/>
         <source>Front propagation</source>
-        <translation type="unfinished"></translation>
+        <translation>Front propagation</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1403"/>
         <location filename="../ui_templates/mainWindow.ui" line="1406"/>
         <source>Classify points by propagating a front on a scalar field</source>
-        <translation type="unfinished"></translation>
+        <translation>Classify points by propagating a front on a scalar field</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1411"/>
         <source>Multiply/Scale</source>
-        <translation type="unfinished">乗算/スケール</translation>
+        <translation>乗算/スケール</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1414"/>
         <location filename="../ui_templates/mainWindow.ui" line="1417"/>
         <source>Multiply coordinates (separately)</source>
-        <translation type="unfinished">座標の乗算（分離）</translation>
+        <translation>座標の乗算（分離）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1422"/>
         <source>Match bounding-box centers</source>
-        <translation type="unfinished">バウンディングボックスの中央に一致</translation>
+        <translation>バウンディングボックスの中央に一致</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1425"/>
         <location filename="../ui_templates/mainWindow.ui" line="1428"/>
         <source>Synchronize selected entities bbox centers</source>
-        <translation type="unfinished">バウンディングボックスの中央にエンティティを同期</translation>
+        <translation>バウンディングボックスの中央にエンティティを同期</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1433"/>
         <source>Unroll</source>
-        <translation type="unfinished">展開</translation>
+        <translation>展開</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1436"/>
         <location filename="../ui_templates/mainWindow.ui" line="1439"/>
         <source>Unroll entity on a cylinder or a cone</source>
-        <translation type="unfinished">円柱あるいは円錐への展開</translation>
+        <translation>円柱あるいは円錐への展開</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1448"/>
         <source>Gradient</source>
-        <translation type="unfinished">傾斜度</translation>
+        <translation>傾斜度</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1457"/>
         <source>Zoom &amp; Center</source>
-        <translation type="unfinished">ズームと中心</translation>
+        <translation>ズームと中心</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1460"/>
         <source>ZoomCenter</source>
-        <translation type="unfinished">ズームの中心</translation>
+        <translation>ズームの中心</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1463"/>
         <location filename="../ui_templates/mainWindow.ui" line="1466"/>
         <source>Zoom and center on selected entities (Z)</source>
-        <translation type="unfinished">選択したエンティティのズームと中央(Z)</translation>
+        <translation>選択したエンティティのズームと中央(Z)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1469"/>
         <source>Z</source>
-        <translation type="unfinished">Z</translation>
+        <translation>Z</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1478"/>
         <source>Top View</source>
-        <translation type="unfinished">上面</translation>
+        <translation>上面</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1481"/>
         <location filename="../ui_templates/mainWindow.ui" line="1484"/>
         <source>Set top view</source>
-        <translation type="unfinished">上面にセット</translation>
+        <translation>上面にセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1499"/>
         <source>Front View</source>
-        <translation type="unfinished">正面</translation>
+        <translation>正面</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1502"/>
         <location filename="../ui_templates/mainWindow.ui" line="1505"/>
         <source>Set front view</source>
-        <translation type="unfinished">正面にセット</translation>
+        <translation>正面にセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1520"/>
         <source>Back View</source>
-        <translation type="unfinished">裏面</translation>
+        <translation>裏面</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1523"/>
         <location filename="../ui_templates/mainWindow.ui" line="1526"/>
         <source>Set back view</source>
-        <translation type="unfinished">裏面にセット</translation>
+        <translation>裏面にセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1541"/>
         <source>Left Side View</source>
-        <translation type="unfinished">左側</translation>
+        <translation>左側</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1544"/>
         <location filename="../ui_templates/mainWindow.ui" line="1547"/>
         <source>Set left side view</source>
-        <translation type="unfinished">左側にセット</translation>
+        <translation>左側にセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1562"/>
         <source>Right Side View</source>
-        <translation type="unfinished">右側</translation>
+        <translation>右側</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1565"/>
         <location filename="../ui_templates/mainWindow.ui" line="1568"/>
         <source>Set right side view</source>
-        <translation type="unfinished">右側にセット</translation>
+        <translation>右側にセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1583"/>
         <source>Bottom View</source>
-        <translation type="unfinished">下面</translation>
+        <translation>下面</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1586"/>
         <location filename="../ui_templates/mainWindow.ui" line="1589"/>
         <source>Set bottom view</source>
-        <translation type="unfinished">下面にセット</translation>
+        <translation>下面にセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1606"/>
         <source>Main</source>
-        <translation type="unfinished">メイン</translation>
+        <translation>メイン</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1609"/>
         <location filename="../ui_templates/mainWindow.ui" line="1612"/>
         <source>Show/hide main toolbar</source>
-        <translation type="unfinished">メインツールバーの表示/非表示</translation>
+        <translation>メインツールバーの表示/非表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1623"/>
         <source>View</source>
-        <translation type="unfinished">視点</translation>
+        <translation>視点</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1626"/>
         <location filename="../ui_templates/mainWindow.ui" line="1629"/>
         <source>Show/hide view toolbar</source>
-        <translation type="unfinished">視点ツールバーの表示/非表示</translation>
+        <translation>視点ツールバーの表示/非表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1643"/>
         <location filename="../ui_templates/mainWindow.ui" line="1646"/>
         <source>Show/hide scalar fields toolbar</source>
-        <translation type="unfinished">スカラー領域の表示/非表示</translation>
+        <translation>スカラー領域の表示/非表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1651"/>
         <source>Toggle Sun Light</source>
-        <translation type="unfinished">太陽光の移動</translation>
+        <translation>太陽光の移動</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1654"/>
         <location filename="../ui_templates/mainWindow.ui" line="1657"/>
         <source>Toggle sun light (active window)</source>
-        <translation type="unfinished">太陽光の移動（現在のウィンドウ）</translation>
+        <translation>太陽光の移動（現在のウィンドウ）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1660"/>
         <source>F6</source>
-        <translation type="unfinished">F6</translation>
+        <translation>F6</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1668"/>
         <source>Toggle Custom Light</source>
-        <translation type="unfinished">カスタム光の移動</translation>
+        <translation>カスタム光の移動</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1671"/>
         <location filename="../ui_templates/mainWindow.ui" line="1674"/>
         <source>Toggle custom light (active window)</source>
-        <translation type="unfinished">カスタム光の移動（現在のウィンドウ）</translation>
+        <translation>カスタム光の移動（現在のウィンドウ）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1677"/>
         <source>F7</source>
-        <translation type="unfinished">F7</translation>
+        <translation>F7</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1689"/>
         <source>Global Zoom</source>
-        <translation type="unfinished">グローバルズーム</translation>
+        <translation>グローバルズーム</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1698"/>
         <source>Toggle Centered Perspective</source>
-        <translation type="unfinished">中心投影に切替</translation>
+        <translation>中心投影に切替</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1701"/>
         <location filename="../ui_templates/mainWindow.ui" line="1704"/>
         <source>Toggle perspective view (centered on objects) in current window</source>
-        <translation type="unfinished">現在のウィンドウを透視図法（オブジェクトの中心）に切替</translation>
+        <translation>現在のウィンドウを透視図法（オブジェクトの中心）に切替</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1707"/>
         <source>F3</source>
-        <translation type="unfinished">F3</translation>
+        <translation>F3</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1719"/>
         <source>Toggle Viewer Based Perspective</source>
-        <translation type="unfinished">（オブジェクトの中心）に切替</translation>
+        <translation>透視図法に切替</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1722"/>
         <location filename="../ui_templates/mainWindow.ui" line="1725"/>
         <source>Toggle perspective view (centered on viewer) in current window</source>
-        <translation type="unfinished">現在のウィンドウを透視図法（ビューワーの中心）に切替</translation>
+        <translation>現在のウィンドウを透視図法（ビューワーの中心）に切替</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1728"/>
         <source>F4</source>
-        <translation type="unfinished">F4</translation>
+        <translation>F4</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1740"/>
         <source>Refresh</source>
-        <translation type="unfinished">更新</translation>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1743"/>
         <source>F5</source>
-        <translation type="unfinished">F5</translation>
+        <translation>F5</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1751"/>
         <source>Test Frame Rate</source>
-        <translation type="unfinished">フレームレートのテスト</translation>
+        <translation>フレームレートのテスト</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1756"/>
         <source>Render to File</source>
-        <translation type="unfinished">ファイルをレンダリング</translation>
+        <translation>ファイルをレンダリング</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1761"/>
         <source>About Plugins...</source>
-        <translation type="unfinished">プラグインについて</translation>
+        <translation>プラグインについて</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1770"/>
         <source>Convert to RGB</source>
-        <translation type="unfinished">RGBに変換</translation>
+        <translation>RGBに変換</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1773"/>
         <source>Convert current scalar field to RGB colors</source>
-        <translation type="unfinished">現在のスカラー領域をRGBカラーに変換</translation>
+        <translation>現在のスカラー領域をRGBカラーに変換</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1778"/>
         <source>Create/show depth buffer</source>
-        <translation type="unfinished">深さ範囲の作成/表示</translation>
+        <translation>深さ範囲の作成/表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1783"/>
         <source>Export depth buffer</source>
-        <translation type="unfinished">深さ範囲の出力</translation>
+        <translation>深さ範囲の出力</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1797"/>
         <source>Rasterize (and contour plot)</source>
-        <translation type="unfinished"></translation>
+        <translation>ラスタ化（＆等高線生成）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1800"/>
         <source>Convert a cloud to 2D raster (and optionally generate the contour plot)</source>
-        <translation type="unfinished"></translation>
+        <translation>点を2Dラスターに変換（等高線の生成も選択できる）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1805"/>
         <source>Auto align clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>点群の自動位置合わせ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1808"/>
         <location filename="../ui_templates/mainWindow.ui" line="1811"/>
         <source>Tries to automatically register (roughly) two points clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>2つの点群の粗い自動位置合わせを試みる</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1820"/>
         <source>Subsample</source>
-        <translation type="unfinished"></translation>
+        <translation>再サンプリング（点群）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1823"/>
         <location filename="../ui_templates/mainWindow.ui" line="1826"/>
         <source>Subsample a point cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>点群の再サンプリング</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1834"/>
         <source>Load shader</source>
-        <translation type="unfinished"></translation>
+        <translation>シェーダーの読み込み</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1842"/>
         <source>Delete shader</source>
-        <translation type="unfinished"></translation>
+        <translation>シェーダーの除去</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1851"/>
         <source>Point picking</source>
-        <translation type="unfinished"></translation>
+        <translation>ポイント選択</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1854"/>
         <location filename="../ui_templates/mainWindow.ui" line="1857"/>
         <source>Point picking (point information, distance between 2 points, angles between 3 points, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>ポイント選択（点情報、2点間距離、3点角度など）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1862"/>
         <source>Bounding box P.C.A. fit</source>
-        <translation type="unfinished"></translation>
+        <translation>バウンディングボックス主成分適合</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1865"/>
         <location filename="../ui_templates/mainWindow.ui" line="1868"/>
         <source>Makes BB fit principal components (rotates entity!)</source>
-        <translation type="unfinished"></translation>
+        <translation>主成分でのバウンディングボックス適合（エンティティの回転）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1877"/>
         <source>Camera settings</source>
-        <translation type="unfinished"></translation>
+        <translation>カメラ設定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1886"/>
         <source>Point list picking</source>
-        <translation type="unfinished"></translation>
+        <translation>点の一覧選択</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1889"/>
         <source>Pick several points (and export them to ASCII file, a new cloud, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick several points (and export them to ASCII file, a new cloud, etc.)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1894"/>
         <source>Curvature</source>
-        <translation type="unfinished"></translation>
+        <translation>Curvature</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1902"/>
         <source>Roughness</source>
-        <translation type="unfinished"></translation>
+        <translation>粗さ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1910"/>
         <location filename="../ui_templates/mainWindow.ui" line="2865"/>
         <source>Fit a plane on a set of point</source>
-        <translation type="unfinished"></translation>
+        <translation>Fit a plane on a set of point</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1915"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>名前の変更</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1920"/>
         <source>2.5D quadric</source>
-        <translation type="unfinished"></translation>
+        <translation>2.5D二等辺三角形</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1925"/>
         <source>SNE test</source>
-        <translation type="unfinished"></translation>
+        <translation>SNEテスト</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1928"/>
         <location filename="../ui_templates/mainWindow.ui" line="1931"/>
         <source>Spherical Neighbourhood Extraction test</source>
-        <translation type="unfinished"></translation>
+        <translation>球面上の近接点の抽出</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1936"/>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>可視化</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1939"/>
         <source>Toggle selected entities visibility (recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したエンティティの表示に切替（再帰）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1942"/>
         <source>V</source>
-        <translation type="unfinished"></translation>
+        <translation>V</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1953"/>
         <source>Toggle selected entities normals (recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したエンティティの法線に切替（再帰）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1956"/>
         <source>N</source>
-        <translation type="unfinished"></translation>
+        <translation>N</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1967"/>
         <source>Toggle selected entities colors (recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したエンティティの色に切替（再帰）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1970"/>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1978"/>
         <source>SF</source>
-        <translation type="unfinished"></translation>
+        <translation>SF</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1981"/>
         <source>Toggle selected entities SF (recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したエンティティのスカラー領域に切替（再帰）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1984"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1992"/>
         <source>Apply transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>変更を適用</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1995"/>
         <source>Apply rotation and/or translation</source>
-        <translation type="unfinished"></translation>
+        <translation>回転および／あるいは変更を適用</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1998"/>
         <source>Ctrl+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2003"/>
         <source>Smooth (Laplacian)</source>
-        <translation type="unfinished"></translation>
+        <translation>平滑化（ラプラシアン）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2008"/>
         <source>HSV colors</source>
-        <translation type="unfinished"></translation>
+        <translation>HSVカラー</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2017"/>
         <source>Save viewport as object</source>
-        <translation type="unfinished"></translation>
+        <translation>オブジェクトの視点を保存</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2020"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2032"/>
         <source>Pick rotation center</source>
-        <translation type="unfinished"></translation>
+        <translation>回転中心の選択</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2035"/>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2043"/>
         <source>Compute Ranges</source>
-        <translation type="unfinished"></translation>
+        <translation>演算範囲</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2046"/>
         <source>Compute ranges from sensor</source>
-        <translation type="unfinished"></translation>
+        <translation>センサーからの演算範囲</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2055"/>
         <source>Bilateral filter</source>
-        <translation type="unfinished"></translation>
+        <translation>バイラテラルフィルタ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2058"/>
         <source>Compute bilateral filter</source>
-        <translation type="unfinished"></translation>
+        <translation>バイラテラルフィルタの演算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2063"/>
         <source>Compute Scattering Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>散乱角演算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2066"/>
         <source>Compute laser beam scattering angle for a cloud with normals</source>
-        <translation type="unfinished"></translation>
+        <translation>Compute laser beam scattering angle for a cloud with normals</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2071"/>
         <source>Toggle color scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Toggle color scale</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2074"/>
         <location filename="../ui_templates/mainWindow.ui" line="2077"/>
         <source>Toggle active scalar field color scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Toggle active scalar field color scale</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2080"/>
         <source>Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+C</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2088"/>
         <source>Show previous SF</source>
-        <translation type="unfinished"></translation>
+        <translation>Show previous SF</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2091"/>
         <location filename="../ui_templates/mainWindow.ui" line="2094"/>
         <source>Show previous scalar field for active entity</source>
-        <translation type="unfinished"></translation>
+        <translation>Show previous scalar field for active entity</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2097"/>
         <source>Shift+Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+Up</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2105"/>
         <source>Show next SF</source>
-        <translation type="unfinished"></translation>
+        <translation>Show next SF</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2108"/>
         <location filename="../ui_templates/mainWindow.ui" line="2111"/>
         <source>Show next scalar field for active entity</source>
-        <translation type="unfinished"></translation>
+        <translation>Show next scalar field for active entity</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2114"/>
         <source>Shift+Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+Down</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2123"/>
         <source>Align (point pairs picking)</source>
-        <translation type="unfinished"></translation>
+        <translation>位置合わせ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2126"/>
         <location filename="../ui_templates/mainWindow.ui" line="2129"/>
         <source>Aligns two clouds by picking (at least 4) equivalent point pairs</source>
-        <translation type="unfinished"></translation>
+        <translation>2つの点群を選択点により位置合わせ（最低4点）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2138"/>
         <source>Add constant SF</source>
-        <translation type="unfinished"></translation>
+        <translation>新しい属性を追加</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2143"/>
         <source>Export coordinate(s) to SF(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Export coordinate(s) to SF(s)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2146"/>
         <source>Export X, Y and/or Z coordinates to scalar field(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Export X, Y and/or Z coordinates to scalar field(s)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2151"/>
         <source>Subdivide</source>
-        <translation type="unfinished"></translation>
+        <translation>Subdivide</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2156"/>
         <source>3D name</source>
-        <translation type="unfinished"></translation>
+        <translation>3D名称</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2159"/>
         <source>Toggle selected entities 3D name display (recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択物の3D名称の表示を切り替え（再帰的）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2162"/>
         <source>D</source>
-        <translation type="unfinished"></translation>
+        <translation>D</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2174"/>
         <source>Primitive factory</source>
-        <translation type="unfinished"></translation>
+        <translation>新しい属性を追加</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2179"/>
         <source>Materials/textures</source>
-        <translation type="unfinished"></translation>
+        <translation>マテリアル/テクスチャ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2182"/>
         <source>Toggle selected entities materials/textures (recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択物のマテリアル/テクスチャを切り替え（再帰的)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2185"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2197"/>
         <source>Orthographic projection</source>
-        <translation type="unfinished"></translation>
+        <translation>オルソ表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2200"/>
         <location filename="../ui_templates/mainWindow.ui" line="2203"/>
         <source>Set orthographic projection for current 3D View</source>
-        <translation type="unfinished"></translation>
+        <translation>今の3Dビューをオルソ投影にする</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2212"/>
         <source>Object-centered perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>中心投影</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2215"/>
         <location filename="../ui_templates/mainWindow.ui" line="2218"/>
         <source>Set object-centered perspective for current 3D View</source>
-        <translation type="unfinished"></translation>
+        <translation>今の3Dビューを中心投影にする</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2227"/>
         <source>Viewer-based perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>見る側からの視点</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2230"/>
         <location filename="../ui_templates/mainWindow.ui" line="2233"/>
         <source>Set viewer-based perspective for current 3D View</source>
-        <translation type="unfinished"></translation>
+        <translation>今の3Dビューを見る側の視点にする</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2242"/>
         <source>Always visible</source>
-        <translation type="unfinished"></translation>
+        <translation>常に表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2245"/>
         <location filename="../ui_templates/mainWindow.ui" line="2248"/>
         <source>Pivot always visible</source>
-        <translation type="unfinished"></translation>
+        <translation>ピボットを常に表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2257"/>
         <source>Rotation only</source>
-        <translation type="unfinished"></translation>
+        <translation>回転のみ</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2260"/>
         <location filename="../ui_templates/mainWindow.ui" line="2263"/>
         <source>Pivot visible when rotating</source>
-        <translation type="unfinished"></translation>
+        <translation>回転時ピボット表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2272"/>
         <source>Never visible</source>
-        <translation type="unfinished"></translation>
+        <translation>不可視</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2275"/>
         <location filename="../ui_templates/mainWindow.ui" line="2278"/>
         <source>Pivot never visible</source>
-        <translation type="unfinished"></translation>
+        <translation>ピボット非表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2287"/>
         <source>Iso 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Iso1</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2290"/>
         <location filename="../ui_templates/mainWindow.ui" line="2293"/>
         <source>Set view to &apos;front&apos; isometric</source>
-        <translation type="unfinished"></translation>
+        <translation>前のアイソメ表示にセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2308"/>
         <source>Iso 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Iso 2</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2311"/>
         <location filename="../ui_templates/mainWindow.ui" line="2314"/>
         <source>Set view to &apos;back&apos; isometric</source>
-        <translation type="unfinished"></translation>
+        <translation>後のアイソメ表示にセット</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2960"/>
         <source>None (English)</source>
-        <translation type="unfinished"></translation>
+        <translation>なし（英語）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1148"/>
         <source>Translate/Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>移動・回転</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2329"/>
         <source>Convert texture/material to RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>テクスチャ/マテリアルをRGBに変換</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2338"/>
         <source>Color Scales Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>カラースケールの編集</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2341"/>
         <source>Open Color Scales Manager dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Color Scales Manager dialog</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2353"/>
         <location filename="../ui_templates/mainWindow.ui" line="2356"/>
         <source>Cross Section</source>
-        <translation type="unfinished"></translation>
+        <translation>直交断面作成</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2361"/>
         <source>Edit global shift and scale</source>
-        <translation type="unfinished"></translation>
+        <translation>グローバル回転とスケールの編集</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2366"/>
         <source>Convert to Scalar field</source>
-        <translation type="unfinished"></translation>
+        <translation>スカラーフィードの変換</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2371"/>
         <source>Compute Kd-tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Kd-treeの演算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2376"/>
         <source>test</source>
-        <translation type="unfinished"></translation>
+        <translation>テスト</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2381"/>
         <source>Add point indexes as SF</source>
-        <translation type="unfinished"></translation>
+        <translation>Add point indexes as SF</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2384"/>
         <source>Adds a scalar field with ordered integers for each point in the cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Adds a scalar field with ordered integers for each point in the cloud</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2389"/>
         <source>2D polygon (facet)</source>
-        <translation type="unfinished"></translation>
+        <translation>2Dポリゴン（面）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2394"/>
         <source>Adjust zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>ズームの調整</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2397"/>
         <source>Adjusts zoom with a given pixel/unit ratio (orthographic projection only)</source>
-        <translation type="unfinished"></translation>
+        <translation>ピクセル/ユニット比によるズームの調整（オルソ投影のみ）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2402"/>
         <source>Set SF as coordinate(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Set SF as coordinate(s)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2405"/>
         <source>Set SF as coordinate(s) (X, Y or Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>Set SF as coordinate(s) (X, Y or Z)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2410"/>
         <source>Close all</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて閉じる</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2413"/>
         <source>Remove all entities currently loaded in the DB tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove all entities currently loaded in the DB tree</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2418"/>
         <source>Edit global scale</source>
-        <translation type="unfinished"></translation>
+        <translation>グローバルスケールの編集</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2427"/>
         <source>View from sensor</source>
-        <translation type="unfinished"></translation>
+        <translation>センサーから見る</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2432"/>
         <source>Find biggest inner rectangle (2D)</source>
-        <translation type="unfinished"></translation>
+        <translation>最も大きな内部三角形を探す（2D）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2437"/>
         <location filename="../ui_templates/mainWindow.ui" line="2442"/>
         <location filename="../ui_templates/mainWindow.ui" line="2836"/>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>作成</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2447"/>
         <source>Compute points visibility (with octree)</source>
-        <translation type="unfinished"></translation>
+        <translation>可視ポイントを演算（Octree）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2452"/>
         <source>Project Uncertainty</source>
-        <translation type="unfinished"></translation>
+        <translation>プロジェクトの不確定要素</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2457"/>
         <source>With Minimum Spanning Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>最小スパニングツリー</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2462"/>
         <source>With Fast Marching</source>
-        <translation type="unfinished"></translation>
+        <translation>高速マッチング</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2467"/>
         <source>CNE test</source>
-        <translation type="unfinished"></translation>
+        <translation>CNEテスト</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2470"/>
         <location filename="../ui_templates/mainWindow.ui" line="2473"/>
         <source>Cylindrical Neighbourhood Extraction test</source>
-        <translation type="unfinished"></translation>
+        <translation>円柱上の近接点の抽出</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2478"/>
         <source>Approximate (dist. to nearest neighbor)</source>
-        <translation type="unfinished"></translation>
+        <translation>およそ（最近隣法による距離）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2483"/>
         <source>Density</source>
-        <translation type="unfinished"></translation>
+        <translation>密度</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2486"/>
         <source>Compute density</source>
-        <translation type="unfinished"></translation>
+        <translation>密度の計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2491"/>
         <source>Remove duplicate points</source>
-        <translation type="unfinished"></translation>
+        <translation>複製した点の削除</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2496"/>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>切り取り</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2501"/>
         <source>Dip/Dip direction SFs</source>
-        <translation type="unfinished"></translation>
+        <translation>Dip/Dip direction SFs</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2506"/>
         <source>Export cloud info</source>
-        <translation type="unfinished"></translation>
+        <translation>Export cloud info</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2509"/>
         <source>Export cloud info to a CSV file (name, size, barycenter, scalar fields info, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Export cloud info to a CSV file (name, size, barycenter, scalar fields info, etc.)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2514"/>
         <location filename="../ui_templates/mainWindow.ui" line="2934"/>
         <source>Interpolate from another entity</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolate from another entity</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2517"/>
         <source>Interpolate colors from another entity (cloud or mesh) - color is taken from the nearest neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolate colors from another entity (cloud or mesh) - color is taken from the nearest neighbor</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2522"/>
         <source>Distance map to best-fit 3D quadric</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance map to best-fit 3D quadric</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2527"/>
         <source>Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Levels</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2532"/>
         <source>Reset all GUI element positions</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset all GUI element positions</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2535"/>
         <source>Reset all GUI element positions (after restart)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset all GUI element positions (after restart)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2540"/>
         <source>Convert to random RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Convert to random RGB</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2545"/>
         <source>Noise filter</source>
-        <translation type="unfinished"></translation>
+        <translation>ノイズフィルター</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2548"/>
         <source>Noise filter (remove the points far from the - approximate - local surface)</source>
-        <translation type="unfinished"></translation>
+        <translation>Noise filter (remove the points far from the - approximate - local surface)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2557"/>
         <source>Compute stat. params (active SF)</source>
-        <translation type="unfinished"></translation>
+        <translation>統計値計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2568"/>
         <source>Measure volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Measure volume</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2573"/>
         <source>Flag vertices by type</source>
-        <translation type="unfinished"></translation>
+        <translation>Flag vertices by type</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2576"/>
         <source>Flag vertices by type: normal (0), border (1), non-manifold (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flag vertices by type: normal (0), border (1), non-manifold (2)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2581"/>
         <source>Activation (not recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activation (not recursive)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2584"/>
         <source>Enable/disable selected entities (not recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable/disable selected entities (not recursive)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2587"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2598"/>
         <source>Lock rotation about an axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Lock rotation about an axis</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2601"/>
         <source>Lock 3D camera rotation about an axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Lock 3D camera rotation about an axis</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2604"/>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation>L</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2612"/>
         <source>Create cloud from selected entities centers</source>
-        <translation type="unfinished"></translation>
+        <translation>Create cloud from selected entities centers</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2617"/>
         <source>Compute best registration RMS matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Compute best registration RMS matrix</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2620"/>
         <source>Computes the best registration between all couples among multiple entities and save the resulting RMS in a matrix (CSV) file</source>
-        <translation type="unfinished"></translation>
+        <translation>Computes the best registration between all couples among multiple entities and save the resulting RMS in a matrix (CSV) file</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2625"/>
         <source>Enter bubble-view mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter bubble-view mode</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2628"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2637"/>
         <source>Extract sections / Unfold</source>
-        <translation type="unfinished"></translation>
+        <translation>任意の断面作成</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2640"/>
         <source>Extract cloud sections along polylines or unfold a cloud along a polyline</source>
-        <translation type="unfinished"></translation>
+        <translation>Extract cloud sections along polylines or unfold a cloud along a polyline</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2645"/>
         <source>Contour plot (polylines) to mesh</source>
-        <translation type="unfinished"></translation>
+        <translation>メッシュに等高線を描画（ポリライン）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2648"/>
         <source>Contour plot (set of polylines) to a 2.5D mesh</source>
-        <translation type="unfinished"></translation>
+        <translation>2.5Dメッシュに等高線を描画（ポリラインをセット）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2657"/>
         <source>Level</source>
-        <translation type="unfinished"></translation>
+        <translation>水平</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2660"/>
         <source>Pick three points to make a cloud or mesh &apos;level&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>三点を選択して水平を求める</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2665"/>
         <source>Sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>球</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2668"/>
         <source>Fits a sphere on the selected cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Fits a sphere on the selected cloud</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2673"/>
         <source>Match scales</source>
-        <translation type="unfinished"></translation>
+        <translation>スケールを合わせる</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2678"/>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2681"/>
         <source>Zoom in (current 3D view)</source>
-        <translation type="unfinished"></translation>
+        <translation>拡大（現在の3Dビュー）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2684"/>
         <source>+</source>
         <extracomment>Zoom in shortcut</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>拡大のショートカットキー</translatorcomment>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2689"/>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2692"/>
         <source>Zoom out (current 3D view)</source>
-        <translation type="unfinished"></translation>
+        <translation>縮小（現在の3Dビュー）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2695"/>
         <source>=</source>
         <extracomment>Zoom in shortcut</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>縮小のショートカットキー</translatorcomment>
+        <translation>=</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2700"/>
         <source>Distance map</source>
-        <translation type="unfinished"></translation>
+        <translation>距離地図</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2709"/>
         <source>SOR filter</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>外れ値フィルター（SOR）</translatorcomment>
+        <translation>SORフィルター</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2712"/>
         <source>Statistical Outlier Filter (remove the points far from their neighbors)</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistical Outlier Filter (remove the points far from their neighbors)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2724"/>
         <source>actionEnableStereo</source>
-        <translation type="unfinished"></translation>
+        <translation>actionEnableStereo</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2727"/>
         <source>Enable stereo mode (with red-blue or red-cyan glasses)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable stereo mode (with red-blue or red-cyan glasses)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2730"/>
         <source>F10</source>
-        <translation type="unfinished"></translation>
+        <translation>F10</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2738"/>
         <source>Compute points visibility (with depth buffer)</source>
-        <translation type="unfinished"></translation>
+        <translation>Compute points visibility (with depth buffer)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2743"/>
         <source>Compute 2.5D volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Compute 2.5D volume</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2755"/>
         <source>Full screen (3D view)</source>
-        <translation type="unfinished"></translation>
+        <translation>全画面（3Dビュー）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2758"/>
         <source>Exclusive full screen (3D view)</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclusive full screen (3D view)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2761"/>
         <source>F11</source>
-        <translation type="unfinished"></translation>
+        <translation>F11</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2769"/>
         <source>Enable Visual Debug Traces</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable Visual Debug Traces</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2772"/>
         <source>Enables visual debug traces (active 3D view)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enables visual debug traces (active 3D view)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2775"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2780"/>
         <source>Convert to grey scale</source>
-        <translation type="unfinished"></translation>
+        <translation>グレースケールに変換</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2783"/>
         <source>Convert RGB colors to grey scale colors</source>
-        <translation type="unfinished"></translation>
+        <translation>RGBカラーをグレースケールに変換</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2792"/>
         <source>Trace Polyline</source>
-        <translation type="unfinished"></translation>
+        <translation>ポリラインのトレース</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2795"/>
         <source>Trace a polyline by point picking</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したポイントによるポリラインのトレース</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2798"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2806"/>
         <source>Enable Qt warnings in Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable Qt warnings in Console</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2811"/>
         <source>Global Shift settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Global Shift settings</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2814"/>
         <source>Set Global Shift &amp; Scale mechanism parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>グローバル移動＆スケールのパラメーターの設定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2822"/>
         <source>Camera link</source>
-        <translation type="unfinished"></translation>
+        <translation>カメラリンク</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2825"/>
         <source>Link the cameras of all 3D views
 (so that they all move in the same way and at the same time)</source>
-        <translation type="unfinished"></translation>
+        <translation>全ての3Dビューのカメラとのリンク</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2831"/>
         <source>2D Waveform viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>2D Waveform viewer</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2839"/>
         <source>Create a plane</source>
-        <translation type="unfinished"></translation>
+        <translation>平面の作成</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2847"/>
         <source>Edit the plane parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>平面パラメーターの編集</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2852"/>
         <source>Create surface between two polylines</source>
-        <translation type="unfinished"></translation>
+        <translation>Create surface between two polylines</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2857"/>
         <source>Surface between 2 polylines</source>
-        <translation type="unfinished"></translation>
+        <translation>Surface between 2 polylines</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2870"/>
         <source>Enhance with intensities</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhance with intensities</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2875"/>
         <source>Mesh scan grids</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesh scan grids</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2878"/>
         <source>Mesh scan grids (structured point clouds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesh scan grids (structured point clouds)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2893"/>
         <source>Auto-pick rotation center</source>
-        <translation type="unfinished"></translation>
+        <translation>回転中心の自動選択</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2896"/>
         <source>Auto-pick rotation center (rotation is always placed at the middle of the screen if possible)</source>
-        <translation type="unfinished"></translation>
+        <translation>回転中心の自動選択（回転は可能であれば常に画面の中心に位置する）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2899"/>
         <source>Shift+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+P</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2910"/>
         <source>Show cursor coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>カーソル位置の表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2913"/>
         <source>Show cursor coordinates (2D and 3D if possible)</source>
-        <translation type="unfinished"></translation>
+        <translation>カーソル位置の表示（2Dか3D可能であれば）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2918"/>
         <source>Delete scan grids</source>
-        <translation type="unfinished"></translation>
+        <translation>Delete scan grids</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2921"/>
         <source>Delete the underlying scan grids</source>
-        <translation type="unfinished"></translation>
+        <translation>Delete the underlying scan grids</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2926"/>
         <source>Compress FWF data</source>
-        <translation type="unfinished"></translation>
+        <translation>Compress FWF data</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2929"/>
         <source>Compress the associated FWF data (maybe interesting after interactive segmentation for instance)</source>
-        <translation type="unfinished"></translation>
+        <translation>Compress the associated FWF data (maybe interesting after interactive segmentation for instance)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2937"/>
         <source>Interpolate scalar-field(s) from another cloud or mesh</source>
-        <translation type="unfinished"></translation>
+        <translation>他の点群やメッシュでスカラー領域を内挿</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2942"/>
         <source>Export plane info</source>
-        <translation type="unfinished"></translation>
+        <translation>Export plane info</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2945"/>
         <source>Export plane info to a CSV file (name, width, height, center, normal, dip and dip direction, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Export plane info to a CSV file (name, width, height, center, normal, dip and dip direction, etc.)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2950"/>
         <source>Lock rotation about arbitrary axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Lock rotation about arbitrary axis</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2955"/>
         <source>Sample points</source>
-        <translation type="unfinished"></translation>
+        <translation>メッシュ上の点群再サンプリング</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="214"/>
         <location filename="../mainwindow.cpp" line="5695"/>
         <location filename="../mainwindow.cpp" line="5897"/>
         <source>Enter Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter Full Screen</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2491"/>
         <source>Compute visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Compute visibility</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2492"/>
         <source>Points: %L1</source>
-        <translation type="unfinished"></translation>
+        <translation>Points: %L1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3752"/>
         <source>Subsampling</source>
-        <translation type="unfinished"></translation>
+        <translation>サブサンプリング</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4569"/>
         <source>Triangulation</source>
-        <translation type="unfinished"></translation>
+        <translation>三角網化</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4570"/>
         <source>Triangulation in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>三角網化の進展...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="5691"/>
         <location filename="../mainwindow.cpp" line="5893"/>
         <source>Exit Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>全画面をやめる</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="8112"/>
         <source>Testing all possible positions</source>
-        <translation type="unfinished"></translation>
+        <translation>Testing all possible positions</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="8113"/>
         <source>%1 clouds and %2 positions</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 clouds and %2 positions</translation>
     </message>
 </context>
 <context>

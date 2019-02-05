@@ -753,4 +753,1169 @@
     <source>Export depth buffer</source>
     <target>深さ範囲の出力</target>
 </phrase>
+<phrase>
+    <source>Language Translation</source>
+    <target>翻訳</target>
+</phrase>
+<phrase>
+    <source>Convert a cloud to 2D raster (and optionally generate the contour plot)</source>
+    <target>点を2Dラスターに変換（等高線の生成も選択できる）</target>
+</phrase>
+<phrase>
+    <source>Rasterize (and contour plot)</source>
+    <target>ラスタ化（＆等高線生成）</target>
+</phrase>
+<phrase>
+    <source>Auto align clouds</source>
+    <target>点群の自動位置合わせ</target>
+</phrase>
+<phrase>
+    <source>Tries to automatically register (roughly) two points clouds</source>
+    <target>2つの点群の粗い自動位置合わせを試みる</target>
+</phrase>
+<phrase>
+    <source>Subsample</source>
+    <target>再サンプリング（点群）</target>
+</phrase>
+<phrase>
+    <source>Subsample a point cloud</source>
+    <target>点群の再サンプリング</target>
+</phrase>
+<phrase>
+    <source>Load shader</source>
+    <target>シェーダーの読み込み</target>
+</phrase>
+<phrase>
+    <source>Delete shader</source>
+    <target>シェーダーの除去</target>
+</phrase>
+<phrase>
+    <source>Point picking</source>
+    <target>ポイント選択</target>
+</phrase>
+<phrase>
+    <source>Point picking (point information, distance between 2 points, angles between 3 points, etc.)</source>
+    <target>ポイント選択（点情報、2点間距離、3点角度など）</target>
+</phrase>
+<phrase>
+    <source>Bounding box P.C.A. fit</source>
+    <target>バウンディングボックス主成分適合</target>
+</phrase>
+<phrase>
+    <source>Bounding box P.C.A. fit</source>
+    <target>バウンディングボックス主成分適合</target>
+</phrase>
+<phrase>
+    <source>Makes BB fit principal components (rotates entity!)</source>
+    <target>主成分でのバウンディングボックス適合（エンティティの回転）</target>
+</phrase>
+<phrase>
+    <source>Camera settings</source>
+    <target>カメラ設定</target>
+</phrase>
+<phrase>
+    <source>Point list picking</source>
+    <target>点の一覧選択</target>
+</phrase>
+<phrase>
+    <source>Roughness</source>
+    <target>粗さ</target>
+</phrase>
+<phrase>
+    <source>Rename</source>
+    <target>名前の変更</target>
+</phrase>
+<phrase>
+    <source>2.5D quadric</source>
+    <target>2.5D二等辺三角形</target>
+</phrase>
+<phrase>
+    <source>SNE test</source>
+    <target>SNEテスト</target>
+</phrase>
+<phrase>
+    <source>Spherical Neighbourhood Extraction test</source>
+    <target>球面上の近接点の抽出</target>
+</phrase>
+<phrase>
+    <source>Visibility</source>
+    <target>可視化</target>
+</phrase>
+<phrase>
+    <source>Toggle selected entities visibility (recursive)</source>
+    <target>選択したエンティティの表示に切替（再帰）</target>
+</phrase>
+<phrase>
+    <source>V</source>
+    <target>V</target>
+</phrase>
+<phrase>
+    <source>Toggle selected entities normals (recursive)</source>
+    <target>選択したエンティティの法線に切替（再帰）</target>
+</phrase>
+<phrase>
+    <source>N</source>
+    <target>N</target>
+</phrase>
+<phrase>
+    <source>Toggle selected entities colors (recursive)</source>
+    <target>選択したエンティティの色に切替（再帰）</target>
+</phrase>
+<phrase>
+    <source>C</source>
+    <target>C</target>
+</phrase>
+<phrase>
+    <source>SF</source>
+    <target>SF</target>
+</phrase>
+<phrase>
+    <source>Toggle selected entities SF (recursive)</source>
+    <target>選択したエンティティのスカラー領域に切替（再帰）</target>
+</phrase>
+<phrase>
+    <source>S</source>
+    <target>S</target>
+</phrase>
+<phrase>
+    <source>Apply transformation</source>
+    <target>変更を適用</target>
+</phrase>
+<phrase>
+    <source>Apply rotation and/or translation</source>
+    <target>回転および／あるいは変更を適用</target>
+</phrase>
+<phrase>
+    <source>Ctrl+T</source>
+    <target>Ctrl+T</target>
+</phrase>
+<phrase>
+    <source>Smooth (Laplacian)</source>
+    <target>平滑化（ラプラシアン）</target>
+</phrase>
+<phrase>
+    <source>HSV colors</source>
+    <target>HSVカラー</target>
+</phrase>
+<phrase>
+    <source>Save viewport as object</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save viewport as object</source>
+    <target>オブジェクトの視点を保存</target>
+</phrase>
+<phrase>
+    <source>Ctrl+V</source>
+    <target>Ctrl+V</target>
+</phrase>
+<phrase>
+    <source>Pick rotation center</source>
+    <target>回転中心の選択</target>
+</phrase>
+<phrase>
+    <source>P</source>
+    <target>P</target>
+</phrase>
+<phrase>
+    <source>Compute Ranges</source>
+    <target>演算範囲</target>
+</phrase>
+<phrase>
+    <source>Compute ranges from sensor</source>
+    <target>センサーからの演算範囲</target>
+</phrase>
+<phrase>
+    <source>Bilateral filter</source>
+    <target>バイラテラルフィルタ</target>
+</phrase>
+<phrase>
+    <source>Compute bilateral filter</source>
+    <target>バイラテラルフィルタの演算</target>
+</phrase>
+<phrase>
+    <source>Compute Scattering Angles</source>
+    <target>散乱角演算</target>
+</phrase>
+<phrase>
+    <source>Compute laser beam scattering angle for a cloud with normals</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Compute laser beam scattering angle for a cloud with normals</source>
+    <target>Compute laser beam scattering angle for a cloud with normals</target>
+</phrase>
+<phrase>
+    <source>Shift+Up</source>
+    <target>Shift+Up</target>
+</phrase>
+<phrase>
+    <source>Show next scalar field for active entity</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Align (point pairs picking)</source>
+    <target>位置合わせ</target>
+</phrase>
+<phrase>
+    <source>Aligns two clouds by picking (at least 4) equivalent point pairs</source>
+    <target>2つの点群を選択点により位置合わせ（最低4点）</target>
+</phrase>
+<phrase>
+    <source>Add constant SF</source>
+    <target>新しい属性を追加</target>
+</phrase>
+<phrase>
+    <source>Export coordinate(s) to SF(s)</source>
+    <target>Export coordinate(s) to SF(s)</target>
+</phrase>
+<phrase>
+    <source>Export X, Y and/or Z coordinates to scalar field(s)</source>
+    <target>Export X, Y and/or Z coordinates to scalar field(s)</target>
+</phrase>
+<phrase>
+    <source>Subdivide</source>
+    <target>Subdivide</target>
+</phrase>
+<phrase>
+    <source>3D name</source>
+    <target>3D名称</target>
+</phrase>
+<phrase>
+    <source>Toggle selected entities 3D name display (recursive)</source>
+    <target>選択物の3D名称の表示を切り替え（再帰的）</target>
+</phrase>
+<phrase>
+    <source>D</source>
+    <target>D</target>
+</phrase>
+<phrase>
+    <source>Primitive factory</source>
+    <target>新しい属性を追加</target>
+</phrase>
+<phrase>
+    <source>Materials/textures</source>
+    <target>マテリアル/テクスチャ</target>
+</phrase>
+<phrase>
+    <source>Toggle selected entities materials/textures (recursive)</source>
+    <target>選択物のマテリアル/テクスチャを切り替え（再帰的)</target>
+</phrase>
+<phrase>
+    <source>M</source>
+    <target>M</target>
+</phrase>
+<phrase>
+    <source>Orthographic projection</source>
+    <target>オルソ表示</target>
+</phrase>
+<phrase>
+    <source>Set orthographic projection for current 3D View</source>
+    <target>今の３Dビューをオルソ投影にする</target>
+</phrase>
+<phrase>
+    <source>Set orthographic projection for current 3D View</source>
+    <target>今の3Dビューをオルソ投影にする</target>
+</phrase>
+<phrase>
+    <source>Object-centered perspective</source>
+    <target>中心投影</target>
+</phrase>
+<phrase>
+    <source>Set object-centered perspective for current 3D View</source>
+    <target>今の3Dビューを中心投影にする</target>
+</phrase>
+<phrase>
+    <source>Viewer-based perspective</source>
+    <target>見る側からの視点</target>
+</phrase>
+<phrase>
+    <source>Set viewer-based perspective for current 3D View</source>
+    <target>今の3Dビューを見る側の視点にする</target>
+</phrase>
+<phrase>
+    <source>Always visible</source>
+    <target>常に表示</target>
+</phrase>
+<phrase>
+    <source>Pivot always visible</source>
+    <target>ピボットを常に表示</target>
+</phrase>
+<phrase>
+    <source>Rotation only</source>
+    <target>回転のみ</target>
+</phrase>
+<phrase>
+    <source>Pivot visible when rotating</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Pivot visible when rotating</source>
+    <target>回転時ピボット表示</target>
+</phrase>
+<phrase>
+    <source>Never visible</source>
+    <target>不可視</target>
+</phrase>
+<phrase>
+    <source>Pivot never visible</source>
+    <target>ピボット非表示</target>
+</phrase>
+<phrase>
+    <source>Iso 1</source>
+    <target>Iso1</target>
+</phrase>
+<phrase>
+    <source>Set view to &apos;front&apos; isometric</source>
+    <target>前のアイソメ表示にセット</target>
+</phrase>
+<phrase>
+    <source>Iso 2</source>
+    <target>Iso 2</target>
+</phrase>
+<phrase>
+    <source>Set view to &apos;back&apos; isometric</source>
+    <target>後のアイソメ表示にセット</target>
+</phrase>
+<phrase>
+    <source>None (English)</source>
+    <target>なし（英語）</target>
+</phrase>
+<phrase>
+    <source>Translate/Rotate</source>
+    <target>移動・回転</target>
+</phrase>
+<phrase>
+    <source>Convert texture/material to RGB</source>
+    <target>テクスチャ/マテリアルをRGBに変換</target>
+</phrase>
+<phrase>
+    <source>Translate/Rotate</source>
+    <target>移動/回転</target>
+</phrase>
+<phrase>
+    <source>Translate/Rotate</source>
+    <target>移動・回転</target>
+</phrase>
+<phrase>
+    <source>Color Scales Manager</source>
+    <target>カラースケールの編集</target>
+</phrase>
+<phrase>
+    <source>Cross Section</source>
+    <target>直交断面作成</target>
+</phrase>
+<phrase>
+    <source>Open Color Scales Manager dialog</source>
+    <target>Open Color Scales Manager dialog</target>
+</phrase>
+<phrase>
+    <source>Edit global shift and scale</source>
+    <target>グローバル回転とスケールの編集</target>
+</phrase>
+<phrase>
+    <source>Convert to Scalar field</source>
+    <target>スカラーフィードの変換</target>
+</phrase>
+<phrase>
+    <source>Compute Kd-tree</source>
+    <target>Kd-treeの演算</target>
+</phrase>
+<phrase>
+    <source>test</source>
+    <target>テスト</target>
+</phrase>
+<phrase>
+    <source>Add point indexes as SF</source>
+    <target>Add point indexes as SF</target>
+</phrase>
+<phrase>
+    <source>Adds a scalar field with ordered integers for each point in the cloud</source>
+    <target>Adds a scalar field with ordered integers for each point in the cloud</target>
+</phrase>
+<phrase>
+    <source>2D polygon (facet)</source>
+    <target>2Dポリゴン（面）</target>
+</phrase>
+<phrase>
+    <source>Adjust zoom</source>
+    <target>ズームの調整</target>
+</phrase>
+<phrase>
+    <source>Adjusts zoom with a given pixel/unit ratio (orthographic projection only)</source>
+    <target>ピクセル/ユニット比によるズームの調整（オルソ投影のみ）</target>
+</phrase>
+<phrase>
+    <source>Close all</source>
+    <target>すべて閉じる</target>
+</phrase>
+<phrase>
+    <source>Remove all entities currently loaded in the DB tree</source>
+    <target>Remove all entities currently loaded in the DB tree</target>
+</phrase>
+<phrase>
+    <source>Edit global scale</source>
+    <target>グローバルスケールの編集</target>
+</phrase>
+<phrase>
+    <source>View from sensor</source>
+    <target>センサーから見る</target>
+</phrase>
+<phrase>
+    <source>Find biggest inner rectangle (2D)</source>
+    <target>最も大きな内部三角形を探す（2D）</target>
+</phrase>
+<phrase>
+    <source>Create</source>
+    <target>作成</target>
+</phrase>
+<phrase>
+    <source>Compute points visibility (with octree)</source>
+    <target>可視ポイントを演算（Octree）</target>
+</phrase>
+<phrase>
+    <source>Project Uncertainty</source>
+    <target>プロジェクトの不確定要素</target>
+</phrase>
+<phrase>
+    <source>With Minimum Spanning Tree</source>
+    <target>最小スパニングツリー</target>
+</phrase>
+<phrase>
+    <source>With Minimum Spanning Tree</source>
+    <target>最小スパニングツリー</target>
+</phrase>
+<phrase>
+    <source>With Fast Marching</source>
+    <target>高速マッチング</target>
+</phrase>
+<phrase>
+    <source>CNE test</source>
+    <target>CNEテスト</target>
+</phrase>
+<phrase>
+    <source>Cylindrical Neighbourhood Extraction test</source>
+    <target>円柱上の近接点の抽出</target>
+</phrase>
+<phrase>
+    <source>Approximate (dist. to nearest neighbor)</source>
+    <target>およそ（最近隣法による距離）</target>
+</phrase>
+<phrase>
+    <source>Density</source>
+    <target>密度</target>
+</phrase>
+<phrase>
+    <source>Compute density</source>
+    <target>密度の計算</target>
+</phrase>
+<phrase>
+    <source>Remove duplicate points</source>
+    <target>複製した点の削除</target>
+</phrase>
+<phrase>
+    <source>Crop</source>
+    <target>切り取り</target>
+</phrase>
+<phrase>
+    <source>Levels</source>
+    <target>Levels</target>
+</phrase>
+<phrase>
+    <source>Noise filter</source>
+    <target>ノイズフィルター</target>
+</phrase>
+<phrase>
+    <source>Compute stat. params (active SF)</source>
+    <target>統計値計算</target>
+</phrase>
+<phrase>
+    <source>Measure volume</source>
+    <target>Measure volume</target>
+</phrase>
+<phrase>
+    <source>A</source>
+    <target>A</target>
+</phrase>
+<phrase>
+    <source>Lock rotation about an axis</source>
+    <target>Lock rotation about an axis</target>
+</phrase>
+<phrase>
+    <source>L</source>
+    <target>L</target>
+</phrase>
+<phrase>
+    <source>Create cloud from selected entities centers</source>
+    <target>Create cloud from selected entities centers</target>
+</phrase>
+<phrase>
+    <source>B</source>
+    <target>B</target>
+</phrase>
+<phrase>
+    <source>Extract sections / Unfold</source>
+    <target>任意の断面作成</target>
+</phrase>
+<phrase>
+    <source>Extract cloud sections along polylines or unfold a cloud along a polyline</source>
+    <target>Extract cloud sections along polylines or unfold a cloud along a polyline</target>
+</phrase>
+<phrase>
+    <source>Contour plot (polylines) to mesh</source>
+    <target>メッシュに等高線を描画（ポリライン）</target>
+</phrase>
+<phrase>
+    <source>Contour plot (set of polylines) to a 2.5D mesh</source>
+    <target>2.5Dメッシュに等高線を描画（ポリラインをセット）</target>
+</phrase>
+<phrase>
+    <source>Level</source>
+    <target>水平</target>
+</phrase>
+<phrase>
+    <source>Pick three points to make a cloud or mesh &apos;level&apos;</source>
+    <target>三点を選択して水平を求める</target>
+</phrase>
+<phrase>
+    <source>Sphere</source>
+    <target>球</target>
+</phrase>
+<phrase>
+    <source>Fits a sphere on the selected cloud</source>
+    <target>Fits a sphere on the selected cloud</target>
+</phrase>
+<phrase>
+    <source>Match scales</source>
+    <target>スケールを合わせる</target>
+</phrase>
+<phrase>
+    <source>Zoom in</source>
+    <target>拡大</target>
+</phrase>
+<phrase>
+    <source>Zoom in (current 3D view)</source>
+    <target>拡大（現在の3Dビュー）</target>
+</phrase>
+<phrase>
+    <source>+</source>
+    <target>+</target>
+</phrase>
+<phrase>
+    <source>+</source>
+    <target>+</target>
+</phrase>
+<phrase>
+    <source>Zoom out (current 3D view)</source>
+    <target>縮小（現在の3Dビュー）</target>
+</phrase>
+<phrase>
+    <source>=</source>
+    <target>=</target>
+</phrase>
+<phrase>
+    <source>Distance map</source>
+    <target>距離地図</target>
+</phrase>
+<phrase>
+    <source>SOR filter</source>
+    <target>SORフィルター</target>
+</phrase>
+<phrase>
+    <source>F10</source>
+    <target>F10</target>
+</phrase>
+<phrase>
+    <source>Full screen (3D view)</source>
+    <target>全画面（3Dビュー）</target>
+</phrase>
+<phrase>
+    <source>Exclusive full screen (3D view)</source>
+    <target>Exclusive full screen (3D view)</target>
+</phrase>
+<phrase>
+    <source>F11</source>
+    <target>F11</target>
+</phrase>
+<phrase>
+    <source>Ctrl+D</source>
+    <target>Ctrl+D</target>
+</phrase>
+<phrase>
+    <source>Convert to grey scale</source>
+    <target>グレースケールに変換</target>
+</phrase>
+<phrase>
+    <source>Convert RGB colors to grey scale colors</source>
+    <target>RGBカラーをグレースケールに変換</target>
+</phrase>
+<phrase>
+    <source>Trace Polyline</source>
+    <target>ポリラインのトレース</target>
+</phrase>
+<phrase>
+    <source>Trace a polyline by point picking</source>
+    <target>選択したポイントによるポリラインのトレース</target>
+</phrase>
+<phrase>
+    <source>Ctrl+P</source>
+    <target>Ctrl+P</target>
+</phrase>
+<phrase>
+    <source>Set Global Shift &amp; Scale mechanism parameters</source>
+    <target>グローバル移動＆スケールのパラメーターの設定</target>
+</phrase>
+<phrase>
+    <source>Camera link</source>
+    <target>カメラリンク</target>
+</phrase>
+<phrase>
+    <source>Link the cameras of all 3D views
+(so that they all move in the same way and at the same time)</source>
+    <target>全ての3Dビューのカメラとのリンク</target>
+</phrase>
+<phrase>
+    <source>Create a plane</source>
+    <target>平面の作成</target>
+</phrase>
+<phrase>
+    <source>Edit the plane parameters</source>
+    <target>平面パラメーターの編集</target>
+</phrase>
+<phrase>
+    <source>Surface between 2 polylines</source>
+    <target>Surface between 2 polylines</target>
+</phrase>
+<phrase>
+    <source>Auto-pick rotation center</source>
+    <target>回転中心の自動選択</target>
+</phrase>
+<phrase>
+    <source>Auto-pick rotation center (rotation is always placed at the middle of the screen if possible)</source>
+    <target>回転中心の自動選択（回転は可能であれば常に画面の中心に位置する）</target>
+</phrase>
+<phrase>
+    <source>Shift+P</source>
+    <target>Shift+P</target>
+</phrase>
+<phrase>
+    <source>Show cursor coordinates</source>
+    <target>カーソル位置の表示</target>
+</phrase>
+<phrase>
+    <source>Show cursor coordinates (2D and 3D if possible)</source>
+    <target>カーソル位置の表示（2Dか3D可能であれば）</target>
+</phrase>
+<phrase>
+    <source>Interpolate scalar-field(s) from another cloud or mesh</source>
+    <target>他の点群やメッシュでスカラー領域を内挿</target>
+</phrase>
+<phrase>
+    <source>Sample points</source>
+    <target>メッシュ上の点群再サンプリング</target>
+</phrase>
+<phrase>
+    <source>Subsampling</source>
+    <target>サブサンプリング</target>
+</phrase>
+<phrase>
+    <source>Triangulation</source>
+    <target>三角網化</target>
+</phrase>
+<phrase>
+    <source>Triangulation in progress...</source>
+    <target>三角網化の進展</target>
+</phrase>
+<phrase>
+    <source>Exit Full Screen</source>
+    <target>全画面をやめる</target>
+</phrase>
+<phrase>
+    <source>Triangulation in progress...</source>
+    <target>三角網化の進展...</target>
+</phrase>
+<phrase>
+    <source>About CloudCompare</source>
+    <target>CloudCompareについて</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>OK</target>
+</phrase>
+<phrase>
+    <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/CC/Icons/images/icon/cc_icon_64.png&quot;/&gt;&lt;br/&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;CloudCompare &lt;/span&gt;&lt;span style=&quot; font-size:14pt; font-weight:600; font-style:italic;&quot;&gt;&lt;/span&gt;&lt;br/&gt;Version: %1&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.cloudcompare.org/donate&quot;&gt;&lt;img src=&quot;:/CC/images/donate.png&quot; width=&quot;200&quot;/&gt;&lt;/a&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.cloudcompare.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;www.cloudcompare.org&lt;br/&gt;&lt;/span&gt;&lt;/a&gt;License: GNU GPL (General Public Licence)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+    <target>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/CC/Icons/images/icon/cc_icon_64.png&quot;/&gt;&lt;br/&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;CloudCompare &lt;/span&gt;&lt;span style=&quot; font-size:14pt; font-weight:600; font-style:italic;&quot;&gt;&lt;/span&gt;&lt;br/&gt;Version: %1&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.cloudcompare.org/donate&quot;&gt;&lt;img src=&quot;:/CC/images/donate.png&quot; width=&quot;200&quot;/&gt;&lt;/a&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.cloudcompare.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;www.cloudcompare.org&lt;br/&gt;&lt;/span&gt;&lt;/a&gt;License: GNU GPL (General Public Licence)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</target>
+</phrase>
+<phrase>
+    <source>Adjust zoom</source>
+    <target>ズーム調整</target>
+</phrase>
+<phrase>
+    <source>Window</source>
+    <target>ウィンドウ</target>
+</phrase>
+<phrase>
+    <source>zoom</source>
+    <target>ズーム</target>
+</phrase>
+<phrase>
+    <source>pixel size</source>
+    <target>ピクセルサイズ</target>
+</phrase>
+<phrase>
+    <source> units</source>
+    <target>ユニット</target>
+</phrase>
+<phrase>
+    <source> pixel(s)</source>
+    <target>ピクセル</target>
+</phrase>
+<phrase>
+    <source> pixel(s)</source>
+    <target> ピクセル</target>
+</phrase>
+<phrase>
+    <source> units</source>
+    <target> ユニット</target>
+</phrase>
+<phrase>
+    <source>Clouds alignment</source>
+    <target>点群位置合わせ</target>
+</phrase>
+<phrase>
+    <source>Model and data</source>
+    <target>モデルとデータ</target>
+</phrase>
+<phrase>
+    <source>the model cloud is the reference: it won&apos;t move (red cloud)</source>
+    <target>点群は参照です：動かせません（赤い点群）</target>
+</phrase>
+<phrase>
+    <source>Model:</source>
+    <target>モデル:</target>
+</phrase>
+<phrase>
+    <source>swap</source>
+    <target>交換</target>
+</phrase>
+<phrase>
+    <source>Alignment parameters</source>
+    <target>位置合わせ設定値</target>
+</phrase>
+<phrase>
+    <source>Number of trials:</source>
+    <target>試行数:</target>
+</phrase>
+<phrase>
+    <source>Overlap:</source>
+    <target>重なり:</target>
+</phrase>
+<phrase>
+    <source>Rough estimation of the two clouds overlap rate (between 0 and 1)</source>
+    <target>2つの点群の重なりの大まかな予想値（0から1の間）</target>
+</phrase>
+<phrase>
+    <source>Delta:</source>
+    <target>デルタ:</target>
+</phrase>
+<phrase>
+    <source>Estimate</source>
+    <target>推計</target>
+</phrase>
+<phrase>
+    <source>Sampling</source>
+    <target>サンプリング</target>
+</phrase>
+<phrase>
+    <source>Method:</source>
+    <target>方法:</target>
+</phrase>
+<phrase>
+    <source>Data</source>
+    <target>データ</target>
+</phrase>
+<phrase>
+    <source>Data:</source>
+    <target>データ:</target>
+</phrase>
+<phrase>
+    <source>Model</source>
+    <target>モデル</target>
+</phrase>
+<phrase>
+    <source>None</source>
+    <target>なし</target>
+</phrase>
+<phrase>
+    <source>remaining points</source>
+    <target>点の残り</target>
+</phrase>
+<phrase>
+    <source>Apply transformation</source>
+    <target>変換の適用</target>
+</phrase>
+<phrase>
+    <source>Matrix 4x4</source>
+    <target>4x4行列</target>
+</phrase>
+<phrase>
+    <source>Enter 4x4 matrix values:</source>
+    <target>4x4行列の値の入力:</target>
+</phrase>
+<phrase>
+    <source>Load matrix from ascii file</source>
+    <target>ASCIIファイルからの行列の読み込み</target>
+</phrase>
+<phrase>
+    <source>ASCII file</source>
+    <target>ASCIIファイル</target>
+</phrase>
+<phrase>
+    <source>Paste clipboard contents</source>
+    <target>クリップボードの内容を貼り付け</target>
+</phrase>
+<phrase>
+    <source>clipboard</source>
+    <target>クリップボード</target>
+</phrase>
+<phrase>
+    <source>help</source>
+    <target>ヘルプ</target>
+</phrase>
+<phrase>
+    <source>Axis, Angle</source>
+    <target>軸,角度</target>
+</phrase>
+<phrase>
+    <source>Rotation axis</source>
+    <target>回転軸</target>
+</phrase>
+<phrase>
+    <source>Rotation angle (degrees)</source>
+    <target>回転角（degrees）</target>
+</phrase>
+<phrase>
+    <source>Translation</source>
+    <target>変換</target>
+</phrase>
+<phrase>
+    <source>Angles</source>
+    <target>角度</target>
+</phrase>
+<phrase>
+    <source>Set Value</source>
+    <target>値のセット</target>
+</phrase>
+<phrase>
+    <source>Value</source>
+    <target>値</target>
+</phrase>
+<phrase>
+    <source>Set Value</source>
+    <target>値のセット</target>
+</phrase>
+<phrase>
+    <source>Label</source>
+    <target>ラベル</target>
+</phrase>
+<phrase>
+    <source>Set Name</source>
+    <target>名前のセット</target>
+</phrase>
+<phrase>
+    <source>Bounding Box Editor</source>
+    <target>バウンディングボックスエディター</target>
+</phrase>
+<phrase>
+    <source>Min corner</source>
+    <target>最小値コーナー</target>
+</phrase>
+<phrase>
+    <source>Center</source>
+    <target>中心</target>
+</phrase>
+<phrase>
+    <source>Max corner</source>
+    <target>最大値コーナー</target>
+</phrase>
+<phrase>
+    <source>Width</source>
+    <target>幅</target>
+</phrase>
+<phrase>
+    <source>Warning, this box doesn&apos;t include the cloud bounding-box!</source>
+    <target>注意: このボックスには点群のバウンティングボックスが含まれていません!</target>
+</phrase>
+<phrase>
+    <source>Orientation</source>
+    <target>向き</target>
+</phrase>
+<phrase>
+    <source>automatically compute Z if checked</source>
+    <target>チェックするとZが自動演算されます</target>
+</phrase>
+<phrase>
+    <source>automatically compute Y if checked</source>
+    <target>チェックするとYが自動演算されます</target>
+</phrase>
+<phrase>
+    <source>automatically compute X if checked</source>
+    <target>チェックするとXが自動演算されます</target>
+</phrase>
+<phrase>
+    <source>Default</source>
+    <target>初期設定</target>
+</phrase>
+<phrase>
+    <source>keep square</source>
+    <target>スクエアを保持</target>
+</phrase>
+<phrase>
+    <source>Last</source>
+    <target>最後</target>
+</phrase>
+<phrase>
+    <source>Sensor parameters</source>
+    <target>センサーの値</target>
+</phrase>
+<phrase>
+    <source>Position + Orientation</source>
+    <target>位置+向き</target>
+</phrase>
+<phrase>
+    <source>sensor front direction (yaw = 0)</source>
+    <target>センサーの前方向（Yaw=0）</target>
+</phrase>
+<phrase>
+    <source>X (right)</source>
+    <target>X(右)</target>
+</phrase>
+<phrase>
+    <source>sensor lateral direction</source>
+    <target>センサー横方向</target>
+</phrase>
+<phrase>
+    <source>Y (up)</source>
+    <target>Y(上)</target>
+</phrase>
+<phrase>
+    <source>sensor vertical direction (pitch = 0)</source>
+    <target>センサー垂直方法（Pitch=0）</target>
+</phrase>
+<phrase>
+    <source>Z (inv. view dir.)</source>
+    <target>Z(視野方向の反転)</target>
+</phrase>
+<phrase>
+    <source>Z (inv. view dir.)</source>
+    <target>Z(視野方向の反転)</target>
+</phrase>
+<phrase>
+    <source>sensor center</source>
+    <target>センサー中央</target>
+</phrase>
+<phrase>
+    <source>Center</source>
+    <target>中央</target>
+</phrase>
+<phrase>
+    <source>Intrinsic params</source>
+    <target>組み込みパラメーター</target>
+</phrase>
+<phrase>
+    <source>vert. focal</source>
+    <target>垂直焦点</target>
+</phrase>
+<phrase>
+    <source>vertical focal (in pixels)</source>
+    <target>垂直焦点（ピクセル内）</target>
+</phrase>
+<phrase>
+    <source> pix.</source>
+    <target> ピクセル</target>
+</phrase>
+<phrase>
+    <source> pix</source>
+    <target> ピクセル</target>
+</phrase>
+<phrase>
+    <source>pixel size</source>
+    <target>ピクセルサイズ</target>
+</phrase>
+<phrase>
+    <source>Pixel size (metric units)</source>
+    <target>ピクセルサイズ（メトリック単位）</target>
+</phrase>
+<phrase>
+    <source>array size</source>
+    <target>アレイサイズ</target>
+</phrase>
+<phrase>
+    <source>CCD array height (pixels)</source>
+    <target>CCDアレイ高(ピクセル)</target>
+</phrase>
+<phrase>
+    <source>CCD array width (pixels)</source>
+    <target>CCDアレイ幅（ピクセル）</target>
+</phrase>
+<phrase>
+    <source>vert. f.o.v.</source>
+    <target>垂直視野界</target>
+</phrase>
+<phrase>
+    <source>Z (inv. view dir.)</source>
+    <target>Z(視野方向の反転)</target>
+</phrase>
+<phrase>
+    <source>Clipping Box</source>
+    <target>クリッピングボックス</target>
+</phrase>
+<phrase>
+    <source>Show/hide bounding box</source>
+    <target>バウンディングボックスを表示/隠す</target>
+</phrase>
+<phrase>
+    <source>Show/hide interactors</source>
+    <target>インタラクターの表示/隠す</target>
+</phrase>
+<phrase>
+    <source>Restore the last clipping box used with this cloud</source>
+    <target>このクラウドの最後のクリッピングボックスを復元</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>リセット</target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target>閉じる</target>
+</phrase>
+<phrase>
+    <source>Box thickness</source>
+    <target>ボックス厚さ</target>
+</phrase>
+<phrase>
+    <source>advanced</source>
+    <target>高度</target>
+</phrase>
+<phrase>
+    <source>Box thickness</source>
+    <target>ボックス厚さ</target>
+</phrase>
+<phrase>
+    <source>Contour</source>
+    <target>等高線</target>
+</phrase>
+<phrase>
+    <source>Export multiple slices by repeating the process along one or several dimensions (+ contour extraction)</source>
+    <target>単・複数次元による過程の繰り返しにより複数スライスをエクスポートする（輪郭抽出）</target>
+</phrase>
+<phrase>
+    <source>Export selection as a new cloud</source>
+    <target>新しい点群として選択を出力</target>
+</phrase>
+<phrase>
+    <source>Extracts the contour as a polyline (concave hull)</source>
+    <target>ポリラインで輪郭を抽出（凹包）</target>
+</phrase>
+<phrase>
+    <source>Removes last extracted contour</source>
+    <target>最後に抽出した等高線を削除</target>
+</phrase>
+<phrase>
+    <source>Set &apos;back&apos; view</source>
+    <target>後ビューにセット</target>
+</phrase>
+<phrase>
+    <source>Set &apos;down&apos; view</source>
+    <target>下ビューにセット</target>
+</phrase>
+<phrase>
+    <source>Set &apos;front&apos; view</source>
+    <target>前ビューにセット</target>
+</phrase>
+<phrase>
+    <source>Set &apos;left&apos; view</source>
+    <target>左ビューにセット</target>
+</phrase>
+<phrase>
+    <source>Set &apos;right&apos; view</source>
+    <target>右ビューにセット</target>
+</phrase>
+<phrase>
+    <source>Set &apos;up&apos; view</source>
+    <target>上ビューにセット</target>
+</phrase>
+<phrase>
+    <source>Shift box</source>
+    <target>ボックス移動</target>
+</phrase>
+<phrase>
+    <source>Shift box along its X dimension</source>
+    <target>X方向にボックス移動</target>
+</phrase>
+<phrase>
+    <source>Shift box along its Z dimension</source>
+    <target>Z方向にボックス移動</target>
+</phrase>
+<phrase>
+    <source>Shift box along its Y dimension</source>
+    <target>Y方向にボックス移動</target>
+</phrase>
+<phrase>
+    <source>Slices</source>
+    <target>スライス</target>
+</phrase>
+<phrase>
+    <source>Repeat</source>
+    <target>繰り返す</target>
+</phrase>
+<phrase>
+    <source>Distance computation</source>
+    <target>距離演算</target>
+</phrase>
+<phrase>
+    <source>Compared</source>
+    <target>比較</target>
+</phrase>
+<phrase>
+    <source>Reference</source>
+    <target>参照</target>
+</phrase>
+<phrase>
+    <source>Octree level</source>
+    <target>Octreeレベル</target>
+</phrase>
+<phrase>
+    <source>Ok</source>
+    <target>Ok</target>
+</phrase>
+<phrase>
+    <source>max. distance</source>
+    <target>最大距離</target>
+</phrase>
+<phrase>
+    <source>Compute Octree</source>
+    <target>Octree演算</target>
+</phrase>
+<phrase>
+    <source>Octree box</source>
+    <target>Octreeボックス</target>
+</phrase>
+<phrase>
+    <source>Message</source>
+    <target>メッセージ</target>
+</phrase>
+<phrase>
+    <source>no message</source>
+    <target>メッセージなし</target>
+</phrase>
+<phrase>
+    <source>Export coordinates to SF</source>
+    <target>スカラー領域への段彩出力</target>
+</phrase>
+<phrase>
+    <source>Filter by value</source>
+    <target>属性値による抽出・分割</target>
+</phrase>
 </QPH>
