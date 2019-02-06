@@ -18,6 +18,8 @@ https://www.danielgm.net/cc/
 
 ※こちらからダウンロードした標準インストーラを使用してインストールされているものとします。また、Windowsの場合について記述します。
 
+※※MacやLinux等のOSの場合は、CloudCompareのプログラム本体ないし設定ファイルがインストールされているフォルダを探し、その中の「translations」フォルダを探すと、下記に記してあるような、「CloudCompare_**.qm」というファイルが並んでいると思います。そのフォルダ内に、下に示す「CloudCompare_ja.qm」ファイルをコピーしてください。
+
 1. まずは、**CloudCompareが起動していない状態で**、CloudCompareがインストールされているフォルダの中のGUIの言語ファイルが置かれているフォルダ（Windows10 64bitでは「C:\Program Files\CloudCompare\translations」となります）を開きます。
 
 2. その中に、このリポジトリからダウンロードした「CloudCompare_ja.qm」ファイルをコピーします（その際に管理者権限が要求される場合がありますが、もし問題がなければ続行してください）。
