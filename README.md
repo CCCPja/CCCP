@@ -22,7 +22,7 @@ https://www.danielgm.net/cc/
 
 2. その中に、このリポジトリからダウンロードした「CloudCompare_ja.qm」ファイルをコピーします（その際に管理者権限が要求される場合がありますが、もし問題がなければ続行してください）。
 
-![file location](./documents/pictures/location.png)
+![file location](./documents/pictures/location.PNG)
 
 3. 次に、CloudCompareを起動します。
 
