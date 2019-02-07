@@ -8,7 +8,7 @@ https://docs.google.com/spreadsheets/d/1YmojDUTQhBRndZ-kD1P8AAHxokeAo1swfNojj4N4
 こちらのGoogleスプレッドシートの中の「翻訳案」タブにて翻訳作業を行っております。
 「訳案」の欄が空欄のものを優先的に訳してください。翻訳元は左隣の列の「source」欄の内容です。
 
-![file location](./documents/pictures/spreadsheet.PNG)
+![file location](./documents/pictures/spreadsheet.png)
 
 
 頻出単語は箇所によって訳語が異なると混乱の元となりますので、ある程度表記揺れを防ぐ必要があります。そのため、同じスプレッドシートファイル内の「単語帳（シソーラス）」タブに対訳表を用意しました。こちらを参照しながら翻訳作業を進めてください。
