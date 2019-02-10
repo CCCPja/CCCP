@@ -586,7 +586,7 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="304"/>
         <source>Pixel size (metric units)</source>
-        <translation>ピクセルサイズ（メトリック　単位）</translation>
+        <translation>ピクセルサイズ（メトリック&#x3000;単位）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="307"/>
@@ -596,12 +596,12 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="316"/>
         <source>CCD pixel width (metric units)</source>
-        <translation>CCD　ピクセル幅（メトリック　単位）</translation>
+        <translation>CCD&#x3000;ピクセル幅（メトリック&#x3000;単位）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="339"/>
         <source>CCD pixel height (metric units)</source>
-        <translation>CCD　ピクセル高（メトリック　単位）</translation>
+        <translation>CCD&#x3000;ピクセル高（メトリック&#x3000;単位）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="370"/>
@@ -3210,7 +3210,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1761"/>
         <source>About Plugins...</source>
-        <translation>プラグインについて</translation>
+        <translation>プラグインについて...</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1770"/>
@@ -3898,7 +3898,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2540"/>
         <source>Convert to random RGB</source>
-        <translation>ランダムなRGBに変換T</translation>
+        <translation>ランダムなRGBに変換</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2545"/>
