@@ -826,8 +826,8 @@
     <target>名前の変更</target>
 </phrase>
 <phrase>
-    <source>2.5D quadric</source>
-    <target>2.5D二等辺三角形</target>
+    <source></source>
+    <target></target>
 </phrase>
 <phrase>
     <source>SNE test</source>
@@ -974,8 +974,8 @@
     <target>Export X, Y and/or Z coordinates to scalar field(s)</target>
 </phrase>
 <phrase>
-    <source>Subdivide</source>
-    <target>Subdivide</target>
+    <source></source>
+    <target></target>
 </phrase>
 <phrase>
     <source>3D name</source>
@@ -1106,8 +1106,8 @@
     <target>直交断面作成</target>
 </phrase>
 <phrase>
-    <source>Open Color Scales Manager dialog</source>
-    <target>Open Color Scales Manager dialog</target>
+    <source></source>
+    <target></target>
 </phrase>
 <phrase>
     <source>Edit global shift and scale</source>
@@ -1126,12 +1126,12 @@
     <target>テスト</target>
 </phrase>
 <phrase>
-    <source>Add point indexes as SF</source>
-    <target>Add point indexes as SF</target>
+    <source></source>
+    <target></target>
 </phrase>
 <phrase>
-    <source>Adds a scalar field with ordered integers for each point in the cloud</source>
-    <target>Adds a scalar field with ordered integers for each point in the cloud</target>
+    <source></source>
+    <target></target>
 </phrase>
 <phrase>
     <source>2D polygon (facet)</source>
@@ -1150,8 +1150,8 @@
     <target>すべて閉じる</target>
 </phrase>
 <phrase>
-    <source>Remove all entities currently loaded in the DB tree</source>
-    <target>Remove all entities currently loaded in the DB tree</target>
+    <source></source>
+    <target></target>
 </phrase>
 <phrase>
     <source>Edit global scale</source>
@@ -1238,8 +1238,8 @@
     <target>A</target>
 </phrase>
 <phrase>
-    <source>Lock rotation about an axis</source>
-    <target>Lock rotation about an axis</target>
+    <source></source>
+    <target></target>
 </phrase>
 <phrase>
     <source>L</source>
@@ -1258,8 +1258,8 @@
     <target>任意の断面作成</target>
 </phrase>
 <phrase>
-    <source>Extract cloud sections along polylines or unfold a cloud along a polyline</source>
-    <target>Extract cloud sections along polylines or unfold a cloud along a polyline</target>
+    <source></source>
+    <target></target>
 </phrase>
 <phrase>
     <source>Contour plot (polylines) to mesh</source>
@@ -1917,5 +1917,389 @@
 <phrase>
     <source>Filter by value</source>
     <target>属性値による抽出・分割</target>
+</phrase>
+<phrase>
+    <source>Language Translation</source>
+    <target>表示言語の切替</target>
+</phrase>
+<phrase>
+    <source>Front propagation</source>
+    <target>伝播</target>
+</phrase>
+<phrase>
+    <source>Classify points by propagating a front on a scalar field</source>
+    <target>スカラー領域上の伝播によるポイントの分類</target>
+</phrase>
+<phrase>
+    <source>Pick several points (and export them to ASCII file, a new cloud, etc.)</source>
+    <target>いくつかの点を選択する（そしてそれをASCIIファイルや新規の点群、その他にエクスポートする）</target>
+</phrase>
+<phrase>
+    <source>Fit a plane on a set of point</source>
+    <target>平面をポイントのセット上にフィットする</target>
+</phrase>
+<phrase>
+    <source>Compute laser beam scattering angle for a cloud with normals</source>
+    <target>法線を持つ点群のレーザービーム散乱角を演算する</target>
+</phrase>
+<phrase>
+    <source>Toggle color scale</source>
+    <target>カラースケールの移動</target>
+</phrase>
+<phrase>
+    <source>Toggle color scale</source>
+    <target>カラースケールの移動</target>
+</phrase>
+<phrase>
+    <source>Toggle active scalar field color scale</source>
+    <target>現在のスカラー領域のカラースケールの移動</target>
+</phrase>
+<phrase>
+    <source>Toggle color scale</source>
+    <target>カラースケールの切替</target>
+</phrase>
+<phrase>
+    <source>Toggle active scalar field color scale</source>
+    <target>現在のスカラー領域のカラースケールの切替</target>
+</phrase>
+<phrase>
+    <source>Show previous SF</source>
+    <target>以前のSFを表示</target>
+</phrase>
+<phrase>
+    <source>Show previous SF</source>
+    <target>以前のスカラー領域を表示</target>
+</phrase>
+<phrase>
+    <source>Show previous scalar field for active entity</source>
+    <target>現在のエンティティの以前のスカラー領域を表示</target>
+</phrase>
+<phrase>
+    <source>Show next SF</source>
+    <target>次のスカラー領域を表示</target>
+</phrase>
+<phrase>
+    <source>Show next scalar field for active entity</source>
+    <target>現在のエンティティの次のスカラー領域を表示</target>
+</phrase>
+<phrase>
+    <source>Export coordinate(s) to SF(s)</source>
+    <target>スカラー領域へ座標値をエクスポート</target>
+</phrase>
+<phrase>
+    <source>Export X, Y and/or Z coordinates to scalar field(s)</source>
+    <target>X,Yと/あるいはZの座標値をスカラー領域へエクスポート</target>
+</phrase>
+<phrase>
+    <source>Curvature</source>
+    <target>曲率</target>
+</phrase>
+<phrase>
+    <source></source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Subdivide</source>
+    <target>再分割</target>
+</phrase>
+<phrase>
+    <source>Open Color Scales Manager dialog</source>
+    <target>カラースケールの編集ダイアログを開く</target>
+</phrase>
+<phrase>
+    <source>Add point indexes as SF</source>
+    <target>スカラー領域としてポイントインデックスを加える</target>
+</phrase>
+<phrase>
+    <source>Adds a scalar field with ordered integers for each point in the cloud</source>
+    <target>順番に点群の各点ごとにスカラー領域を追加する</target>
+</phrase>
+<phrase>
+    <source>Set SF as coordinate(s)</source>
+    <target>スカラー領域を座標値にセットする</target>
+</phrase>
+<phrase>
+    <source>Set SF as coordinate(s)</source>
+    <target>スカラー領域を座標値にセットする</target>
+</phrase>
+<phrase>
+    <source>Set SF as coordinate(s) (X, Y or Z)</source>
+    <target>スカラー領域を座標値にセットする（X,YまたはZ）</target>
+</phrase>
+<phrase>
+    <source>Remove all entities currently loaded in the DB tree</source>
+    <target>DBツリーに現在読み込まれている全てのエンティティを取り除く</target>
+</phrase>
+<phrase>
+    <source>Dip/Dip direction SFs</source>
+    <target>法線の傾斜角と傾斜方位をスカラー領域に書き込む</target>
+</phrase>
+<phrase>
+    <source>Export cloud info</source>
+    <target>点群の情報をエクスポート</target>
+</phrase>
+<phrase>
+    <source>Export cloud info to a CSV file (name, size, barycenter, scalar fields info, etc.)</source>
+    <target>CSVファイルに点群の情報をエクスポート（名前,サイズ,重心,スカラー領域情報等）</target>
+</phrase>
+<phrase>
+    <source>Export cloud info to a CSV file (name, size, barycenter, scalar fields info, etc.)</source>
+    <target>CSVファイルに点群の情報をエクスポート（名前,サイズ,重心,スカラー領域情報等）</target>
+</phrase>
+<phrase>
+    <source>Interpolate from another entity</source>
+    <target>他のエンティティから内挿</target>
+</phrase>
+<phrase>
+    <source>Interpolate from another entity</source>
+    <target>他のエンティティから内挿</target>
+</phrase>
+<phrase>
+    <source>Interpolate colors from another entity (cloud or mesh) - color is taken from the nearest neighbor</source>
+    <target>他のエンティティから色情報を内挿（点群あるいはメッシュ） - 色は最近傍から取得</target>
+</phrase>
+<phrase>
+    <source>Quadric</source>
+    <target>二次曲面</target>
+</phrase>
+<phrase>
+    <source>2.5D quadric</source>
+    <target>2.5D二次曲面</target>
+</phrase>
+<phrase>
+    <source>Distance map to best-fit 3D quadric</source>
+    <target>3D二次曲面にベストフィットさせた距離地図</target>
+</phrase>
+<phrase>
+    <source>Levels</source>
+    <target>レベル</target>
+</phrase>
+<phrase>
+    <source>Reset all GUI element positions</source>
+    <target>GUI要素の位置を初期化</target>
+</phrase>
+<phrase>
+    <source>Reset all GUI element positions (after restart)</source>
+    <target>（再起動後に）GUI要素の位置を初期化</target>
+</phrase>
+<phrase>
+    <source>Convert to random RGB</source>
+    <target>ランダムなRGBに変換</target>
+</phrase>
+<phrase>
+    <source>Noise filter (remove the points far from the - approximate - local surface)</source>
+    <target>ノイズフィルター（おおよそのローカル表面から大きく外れた点を除去）</target>
+</phrase>
+<phrase>
+    <source>Measure volume</source>
+    <target>ボリュームを計算</target>
+</phrase>
+<phrase>
+    <source></source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Flag vertices by type</source>
+    <target>種類別に頂点にフラグを立てる</target>
+</phrase>
+<phrase>
+    <source>Flag vertices by type: normal (0), border (1), non-manifold (2)</source>
+    <target>種類別に頂点にフラグを立てる: 法線(0), 境界線(1), 非多様体（ノンマニホールド）(2)</target>
+</phrase>
+<phrase>
+    <source>Activation (not recursive)</source>
+    <target>アクティブ化（非再帰的）</target>
+</phrase>
+<phrase>
+    <source>Enable/disable selected entities (not recursive)</source>
+    <target>選択したエンティティの有効化/非有効化（非再帰的）</target>
+</phrase>
+<phrase>
+    <source>Enable/disable selected entities (not recursive)</source>
+    <target>選択したエンティティの有効化/非有効化（非再帰的）</target>
+</phrase>
+<phrase>
+    <source></source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Lock 3D camera rotation about an axis</source>
+    <target>ある一つの軸に3Dカメラの回転を固定</target>
+</phrase>
+<phrase>
+    <source>Create cloud from selected entities centers</source>
+    <target>選択されたエンティティの中心から点群を作成</target>
+</phrase>
+<phrase>
+    <source>Compute best registration RMS matrix</source>
+    <target>二乗平均平方根マトリクスに最適な位置を演算する</target>
+</phrase>
+<phrase>
+    <source>Computes the best registration between all couples among multiple entities and save the resulting RMS in a matrix (CSV) file</source>
+    <target>複数のエンティティ間の全ての組み合わせに最適な位置を演算し、マトリクスファイル（CSV）内の二乗平均平方根の結果を保存する</target>
+</phrase>
+<phrase>
+    <source>Computes the best registration between all couples among multiple entities and save the resulting RMS in a matrix (CSV) file</source>
+    <target>複数のエンティティ間の全ての組み合わせに最適な位置を演算し、マトリクスファイル（CSV）内の二乗平均平方根の結果を保存する</target>
+</phrase>
+<phrase>
+    <source>Enter bubble-view mode</source>
+    <target>バブルビューモードにする</target>
+</phrase>
+<phrase>
+    <source>Extract cloud sections along polylines or unfold a cloud along a polyline</source>
+    <target>複数のポリラインに沿った点群を抽出する、あるいはあるポリラインに沿った点群を展開する</target>
+</phrase>
+<phrase>
+    <source>Extract cloud sections along polylines or unfold a cloud along a polyline</source>
+    <target>複数のポリラインに沿った点群を抽出する、あるいはあるポリラインcompute the best registrationに沿った点群を展開する</target>
+</phrase>
+<phrase>
+    <source>Fits a sphere on the selected cloud</source>
+    <target>選択した点群に球をフィットさせる</target>
+</phrase>
+<phrase>
+    <source>Statistical Outlier Filter (remove the points far from their neighbors)</source>
+    <target>統計的外れ値フィルター（隣接点から遠く離れたポイントを除去）</target>
+</phrase>
+<phrase>
+    <source>actionEnableStereo</source>
+    <target>ステレオを有効に</target>
+</phrase>
+<phrase>
+    <source>Enable stereo mode (with red-blue or red-cyan glasses)</source>
+    <target>ステレオモードを有効化（赤青色または赤シアン色メガネを用いる）</target>
+</phrase>
+<phrase>
+    <source>Compute points visibility (with depth buffer)</source>
+    <target>（深さバッファーを用いて）ポイントの可視性を計算</target>
+</phrase>
+<phrase>
+    <source>Compute 2.5D volume</source>
+    <target>2.5Dボリュームを計算</target>
+</phrase>
+<phrase>
+    <source>Compute points visibility (with depth buffer)</source>
+    <target>（深さバッファーを用いて）ポイントの可視性を計算</target>
+</phrase>
+<phrase>
+    <source>Exclusive full screen (3D view)</source>
+    <target>独占的な全画面（3Dビュー）</target>
+</phrase>
+<phrase>
+    <source>Enable Visual Debug Traces</source>
+    <target>ビジュアルデバッグトレースの有効化</target>
+</phrase>
+<phrase>
+    <source>Enables visual debug traces (active 3D view)</source>
+    <target>ビジュアルデバッグトレースの有効化（現在の3Dビュー）</target>
+</phrase>
+<phrase>
+    <source>%1 clouds and %2 positions</source>
+    <target>%1 点群と %2 位置</target>
+</phrase>
+<phrase>
+    <source>Enable Qt warnings in Console</source>
+    <target>コンソール内のQtからの警告を有効にする</target>
+</phrase>
+<phrase>
+    <source>Global Shift settings</source>
+    <target>グローバル回転の設定</target>
+</phrase>
+<phrase>
+    <source>2D Waveform viewer</source>
+    <target>2D Waveformビューワー</target>
+</phrase>
+<phrase>
+    <source>Create surface between two polylines</source>
+    <target>2つのポリライン間の表面を作成する</target>
+</phrase>
+<phrase>
+    <source></source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Surface between 2 polylines</source>
+    <target>2つのポリライン間の表面</target>
+</phrase>
+<phrase>
+    <source></source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Enhance with intensities</source>
+    <target>強度によって強調</target>
+</phrase>
+<phrase>
+    <source>Enhance with intensities</source>
+    <target>強度によって強調</target>
+</phrase>
+<phrase>
+    <source>Mesh scan grids</source>
+    <target>メッシュスキャングリッド</target>
+</phrase>
+<phrase>
+    <source>Mesh scan grids (structured point clouds)</source>
+    <target>メッシュスキャングリッド（構造化された点群）</target>
+</phrase>
+<phrase>
+    <source>Delete scan grids</source>
+    <target>スキャングリッドを削除</target>
+</phrase>
+<phrase>
+    <source>Delete the underlying scan grids</source>
+    <target>下にあるスキャングリッドを削除</target>
+</phrase>
+<phrase>
+    <source>Compress FWF data</source>
+    <target>FWFデータを圧縮</target>
+</phrase>
+<phrase>
+    <source>Compress the associated FWF data (maybe interesting after interactive segmentation for instance)</source>
+    <target>関連するFWFデータを圧縮</target>
+</phrase>
+<phrase>
+    <source>Export plane info</source>
+    <target>平面情報をエクスポート</target>
+</phrase>
+<phrase>
+    <source>Lock rotation about an axis</source>
+    <target>ある1つの軸に回転を固定</target>
+</phrase>
+<phrase>
+    <source>Lock 3D camera rotation about an axis</source>
+    <target>ある1つの軸に3Dカメラの回転を固定</target>
+</phrase>
+<phrase>
+    <source>Lock rotation about an axis</source>
+    <target>ある1つの軸に回転を固定</target>
+</phrase>
+<phrase>
+    <source>Export plane info to a CSV file (name, width, height, center, normal, dip and dip direction, etc.)</source>
+    <target>平面情報を1つのCSVファイルにエクスポート（名前、幅、高さ、中心、法線、法線の傾斜角と傾斜方位等）</target>
+</phrase>
+<phrase>
+    <source>Lock rotation about arbitrary axis</source>
+    <target>任意の軸で回転を固定</target>
+</phrase>
+<phrase>
+    <source>Enter Full Screen</source>
+    <target>全画面にする</target>
+</phrase>
+<phrase>
+    <source>Compute visibility</source>
+    <target>可視性を計算</target>
+</phrase>
+<phrase>
+    <source>Points: %L1</source>
+    <target>点群: %L1</target>
+</phrase>
+<phrase>
+    <source>Testing all possible positions</source>
+    <target>全ての可能性のある位置をテストする</target>
+</phrase>
+<phrase>
+    <source>%1 clouds and %2 positions</source>
+    <target>%1 点群と %2 位置</target>
 </phrase>
 </QPH>

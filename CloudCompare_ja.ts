@@ -586,7 +586,7 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="304"/>
         <source>Pixel size (metric units)</source>
-        <translation>ピクセルサイズ（メトリック&#x3000;単位）</translation>
+        <translation>ピクセルサイズ（メトリック　単位）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="307"/>
@@ -596,12 +596,12 @@ Let P be a 3D point, the transformed point P&apos; will be such that: P&apos; = 
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="316"/>
         <source>CCD pixel width (metric units)</source>
-        <translation>CCD&#x3000;ピクセル幅（メトリック&#x3000;単位）</translation>
+        <translation>CCD　ピクセル幅（メトリック　単位）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="339"/>
         <source>CCD pixel height (metric units)</source>
-        <translation>CCD&#x3000;ピクセル高（メトリック&#x3000;単位）</translation>
+        <translation>CCD　ピクセル高（メトリック　単位）</translation>
     </message>
     <message>
         <location filename="../ui_templates/camSensorProjectDlg.ui" line="370"/>
@@ -2255,7 +2255,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="92"/>
         <source>Language Translation</source>
-        <translation>翻訳</translation>
+        <translation>表示言語の切替</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="122"/>
@@ -2957,13 +2957,13 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1400"/>
         <source>Front propagation</source>
-        <translation>Front propagation</translation>
+        <translation>伝播</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1403"/>
         <location filename="../ui_templates/mainWindow.ui" line="1406"/>
         <source>Classify points by propagating a front on a scalar field</source>
-        <translation>Classify points by propagating a front on a scalar field</translation>
+        <translation>スカラー領域上の伝播によるポイントの分類</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1411"/>
@@ -3309,12 +3309,12 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1889"/>
         <source>Pick several points (and export them to ASCII file, a new cloud, etc.)</source>
-        <translation>Pick several points (and export them to ASCII file, a new cloud, etc.)</translation>
+        <translation>いくつかの点を選択する（そしてそれをASCIIファイルや新規の点群、その他にエクスポートする）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1894"/>
         <source>Curvature</source>
-        <translation>Curvature</translation>
+        <translation>曲率</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1902"/>
@@ -3325,7 +3325,7 @@ Note: the diagonal is not tested at loading time.</source>
         <location filename="../ui_templates/mainWindow.ui" line="1910"/>
         <location filename="../ui_templates/mainWindow.ui" line="2865"/>
         <source>Fit a plane on a set of point</source>
-        <translation>Fit a plane on a set of point</translation>
+        <translation>平面をポイントのセット上にフィットする</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1915"/>
@@ -3335,7 +3335,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1920"/>
         <source>2.5D quadric</source>
-        <translation>2.5D二等辺三角形</translation>
+        <translation>2.5D二次曲面</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="1925"/>
@@ -3471,18 +3471,18 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2066"/>
         <source>Compute laser beam scattering angle for a cloud with normals</source>
-        <translation>Compute laser beam scattering angle for a cloud with normals</translation>
+        <translation>法線を持つ点群のレーザービーム散乱角を演算する</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2071"/>
         <source>Toggle color scale</source>
-        <translation>Toggle color scale</translation>
+        <translation>カラースケールの切替</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2074"/>
         <location filename="../ui_templates/mainWindow.ui" line="2077"/>
         <source>Toggle active scalar field color scale</source>
-        <translation>Toggle active scalar field color scale</translation>
+        <translation>現在のスカラー領域のカラースケールの切替</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2080"/>
@@ -3492,13 +3492,13 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2088"/>
         <source>Show previous SF</source>
-        <translation>Show previous SF</translation>
+        <translation>以前のスカラー領域を表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2091"/>
         <location filename="../ui_templates/mainWindow.ui" line="2094"/>
         <source>Show previous scalar field for active entity</source>
-        <translation>Show previous scalar field for active entity</translation>
+        <translation>現在のエンティティの以前のスカラー領域を表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2097"/>
@@ -3508,13 +3508,13 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2105"/>
         <source>Show next SF</source>
-        <translation>Show next SF</translation>
+        <translation>次のスカラー領域を表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2108"/>
         <location filename="../ui_templates/mainWindow.ui" line="2111"/>
         <source>Show next scalar field for active entity</source>
-        <translation>Show next scalar field for active entity</translation>
+        <translation>現在のエンティティの次のスカラー領域を表示</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2114"/>
@@ -3540,17 +3540,17 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2143"/>
         <source>Export coordinate(s) to SF(s)</source>
-        <translation>Export coordinate(s) to SF(s)</translation>
+        <translation>スカラー領域へ座標値をエクスポート</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2146"/>
         <source>Export X, Y and/or Z coordinates to scalar field(s)</source>
-        <translation>Export X, Y and/or Z coordinates to scalar field(s)</translation>
+        <translation>X,Yと/あるいはZの座標値をスカラー領域へエクスポート</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2151"/>
         <source>Subdivide</source>
-        <translation>Subdivide</translation>
+        <translation>再分割</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2156"/>
@@ -3698,7 +3698,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2341"/>
         <source>Open Color Scales Manager dialog</source>
-        <translation>Open Color Scales Manager dialog</translation>
+        <translation>カラースケールの編集ダイアログを開く</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2353"/>
@@ -3729,12 +3729,12 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2381"/>
         <source>Add point indexes as SF</source>
-        <translation>Add point indexes as SF</translation>
+        <translation>スカラー領域としてポイントインデックスを加える</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2384"/>
         <source>Adds a scalar field with ordered integers for each point in the cloud</source>
-        <translation>Adds a scalar field with ordered integers for each point in the cloud</translation>
+        <translation>順番に点群の各点ごとにスカラー領域を追加する</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2389"/>
@@ -3754,12 +3754,12 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2402"/>
         <source>Set SF as coordinate(s)</source>
-        <translation>Set SF as coordinate(s)</translation>
+        <translation>スカラー領域を座標値にセットする</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2405"/>
         <source>Set SF as coordinate(s) (X, Y or Z)</source>
-        <translation>Set SF as coordinate(s) (X, Y or Z)</translation>
+        <translation>スカラー領域を座標値にセットする（X,YまたはZ）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2410"/>
@@ -3769,7 +3769,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2413"/>
         <source>Remove all entities currently loaded in the DB tree</source>
-        <translation>Remove all entities currently loaded in the DB tree</translation>
+        <translation>DBツリーに現在読み込まれている全てのエンティティを取り除く</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2418"/>
@@ -3852,53 +3852,53 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2501"/>
         <source>Dip/Dip direction SFs</source>
-        <translation>Dip/Dip direction SFs</translation>
+        <translation>法線の傾斜角と傾斜方位をスカラー領域に書き込む</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2506"/>
         <source>Export cloud info</source>
-        <translation>Export cloud info</translation>
+        <translation>点群の情報をエクスポート</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2509"/>
         <source>Export cloud info to a CSV file (name, size, barycenter, scalar fields info, etc.)</source>
-        <translation>Export cloud info to a CSV file (name, size, barycenter, scalar fields info, etc.)</translation>
+        <translation>CSVファイルに点群の情報をエクスポート（名前,サイズ,重心,スカラー領域情報等）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2514"/>
         <location filename="../ui_templates/mainWindow.ui" line="2934"/>
         <source>Interpolate from another entity</source>
-        <translation>Interpolate from another entity</translation>
+        <translation>他のエンティティから内挿</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2517"/>
         <source>Interpolate colors from another entity (cloud or mesh) - color is taken from the nearest neighbor</source>
-        <translation>Interpolate colors from another entity (cloud or mesh) - color is taken from the nearest neighbor</translation>
+        <translation>他のエンティティから色情報を内挿（点群あるいはメッシュ） - 色は最近傍から取得</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2522"/>
         <source>Distance map to best-fit 3D quadric</source>
-        <translation>Distance map to best-fit 3D quadric</translation>
+        <translation>3D二次曲面にベストフィットさせた距離地図</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2527"/>
         <source>Levels</source>
-        <translation>Levels</translation>
+        <translation>レベル</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2532"/>
         <source>Reset all GUI element positions</source>
-        <translation>Reset all GUI element positions</translation>
+        <translation>GUI要素の位置を初期化</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2535"/>
         <source>Reset all GUI element positions (after restart)</source>
-        <translation>Reset all GUI element positions (after restart)</translation>
+        <translation>（再起動後に）GUI要素の位置を初期化</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2540"/>
         <source>Convert to random RGB</source>
-        <translation>Convert to random RGB</translation>
+        <translation>ランダムなRGBに変換T</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2545"/>
@@ -3908,7 +3908,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2548"/>
         <source>Noise filter (remove the points far from the - approximate - local surface)</source>
-        <translation>Noise filter (remove the points far from the - approximate - local surface)</translation>
+        <translation>ノイズフィルター（おおよそのローカル表面から大きく外れた点を除去）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2557"/>
@@ -3918,27 +3918,27 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2568"/>
         <source>Measure volume</source>
-        <translation>Measure volume</translation>
+        <translation>ボリュームを計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2573"/>
         <source>Flag vertices by type</source>
-        <translation>Flag vertices by type</translation>
+        <translation>種類別に頂点にフラグを立てる</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2576"/>
         <source>Flag vertices by type: normal (0), border (1), non-manifold (2)</source>
-        <translation>Flag vertices by type: normal (0), border (1), non-manifold (2)</translation>
+        <translation>種類別に頂点にフラグを立てる: 法線(0), 境界線(1), 非多様体（ノンマニホールド）(2)</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2581"/>
         <source>Activation (not recursive)</source>
-        <translation>Activation (not recursive)</translation>
+        <translation>アクティブ化（非再帰的）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2584"/>
         <source>Enable/disable selected entities (not recursive)</source>
-        <translation>Enable/disable selected entities (not recursive)</translation>
+        <translation>選択したエンティティの有効化/非有効化（非再帰的）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2587"/>
@@ -3948,12 +3948,12 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2598"/>
         <source>Lock rotation about an axis</source>
-        <translation>Lock rotation about an axis</translation>
+        <translation>ある1つの軸に回転を固定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2601"/>
         <source>Lock 3D camera rotation about an axis</source>
-        <translation>Lock 3D camera rotation about an axis</translation>
+        <translation>ある1つの軸に3Dカメラの回転を固定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2604"/>
@@ -3963,22 +3963,22 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2612"/>
         <source>Create cloud from selected entities centers</source>
-        <translation>Create cloud from selected entities centers</translation>
+        <translation>選択されたエンティティの中心から点群を作成</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2617"/>
         <source>Compute best registration RMS matrix</source>
-        <translation>Compute best registration RMS matrix</translation>
+        <translation>二乗平均平方根マトリクスに最適な位置を演算する</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2620"/>
         <source>Computes the best registration between all couples among multiple entities and save the resulting RMS in a matrix (CSV) file</source>
-        <translation>Computes the best registration between all couples among multiple entities and save the resulting RMS in a matrix (CSV) file</translation>
+        <translation>複数のエンティティ間の全ての組み合わせに最適な位置を演算し、マトリクスファイル（CSV）内の二乗平均平方根の結果を保存する</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2625"/>
         <source>Enter bubble-view mode</source>
-        <translation>Enter bubble-view mode</translation>
+        <translation>バブルビューモードにする</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2628"/>
@@ -3993,7 +3993,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2640"/>
         <source>Extract cloud sections along polylines or unfold a cloud along a polyline</source>
-        <translation>Extract cloud sections along polylines or unfold a cloud along a polyline</translation>
+        <translation>複数のポリラインに沿った点群を抽出する、あるいはあるポリラインcompute the best registrationに沿った点群を展開する</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2645"/>
@@ -4023,7 +4023,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2668"/>
         <source>Fits a sphere on the selected cloud</source>
-        <translation>Fits a sphere on the selected cloud</translation>
+        <translation>選択した点群に球をフィットさせる</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2673"/>
@@ -4078,17 +4078,17 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2712"/>
         <source>Statistical Outlier Filter (remove the points far from their neighbors)</source>
-        <translation>Statistical Outlier Filter (remove the points far from their neighbors)</translation>
+        <translation>統計的外れ値フィルター（隣接点から遠く離れたポイントを除去）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2724"/>
         <source>actionEnableStereo</source>
-        <translation>actionEnableStereo</translation>
+        <translation>ステレオを有効に</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2727"/>
         <source>Enable stereo mode (with red-blue or red-cyan glasses)</source>
-        <translation>Enable stereo mode (with red-blue or red-cyan glasses)</translation>
+        <translation>ステレオモードを有効化（赤青色または赤シアン色メガネを用いる）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2730"/>
@@ -4098,12 +4098,12 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2738"/>
         <source>Compute points visibility (with depth buffer)</source>
-        <translation>Compute points visibility (with depth buffer)</translation>
+        <translation>（深さバッファーを用いて）ポイントの可視性を計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2743"/>
         <source>Compute 2.5D volume</source>
-        <translation>Compute 2.5D volume</translation>
+        <translation>2.5Dボリュームを計算</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2755"/>
@@ -4113,7 +4113,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2758"/>
         <source>Exclusive full screen (3D view)</source>
-        <translation>Exclusive full screen (3D view)</translation>
+        <translation>独占的な全画面（3Dビュー）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2761"/>
@@ -4123,12 +4123,12 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2769"/>
         <source>Enable Visual Debug Traces</source>
-        <translation>Enable Visual Debug Traces</translation>
+        <translation>ビジュアルデバッグトレースの有効化</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2772"/>
         <source>Enables visual debug traces (active 3D view)</source>
-        <translation>Enables visual debug traces (active 3D view)</translation>
+        <translation>ビジュアルデバッグトレースの有効化（現在の3Dビュー）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2775"/>
@@ -4163,12 +4163,12 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2806"/>
         <source>Enable Qt warnings in Console</source>
-        <translation>Enable Qt warnings in Console</translation>
+        <translation>コンソール内のQtからの警告を有効にする</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2811"/>
         <source>Global Shift settings</source>
-        <translation>Global Shift settings</translation>
+        <translation>グローバル回転の設定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2814"/>
@@ -4189,7 +4189,7 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2831"/>
         <source>2D Waveform viewer</source>
-        <translation>2D Waveform viewer</translation>
+        <translation>2D Waveformビューワー</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2839"/>
@@ -4204,27 +4204,27 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2852"/>
         <source>Create surface between two polylines</source>
-        <translation>Create surface between two polylines</translation>
+        <translation>2つのポリライン間の表面を作成する</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2857"/>
         <source>Surface between 2 polylines</source>
-        <translation>Surface between 2 polylines</translation>
+        <translation>2つのポリライン間の表面</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2870"/>
         <source>Enhance with intensities</source>
-        <translation>Enhance with intensities</translation>
+        <translation>強度によって強調</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2875"/>
         <source>Mesh scan grids</source>
-        <translation>Mesh scan grids</translation>
+        <translation>メッシュスキャングリッド</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2878"/>
         <source>Mesh scan grids (structured point clouds)</source>
-        <translation>Mesh scan grids (structured point clouds)</translation>
+        <translation>メッシュスキャングリッド（構造化された点群）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2893"/>
@@ -4254,22 +4254,23 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2918"/>
         <source>Delete scan grids</source>
-        <translation>Delete scan grids</translation>
+        <translation>スキャングリッドを削除</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2921"/>
         <source>Delete the underlying scan grids</source>
-        <translation>Delete the underlying scan grids</translation>
+        <translation>下にあるスキャングリッドを削除</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2926"/>
         <source>Compress FWF data</source>
-        <translation>Compress FWF data</translation>
+        <translation>FWFデータを圧縮</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2929"/>
         <source>Compress the associated FWF data (maybe interesting after interactive segmentation for instance)</source>
-        <translation>Compress the associated FWF data (maybe interesting after interactive segmentation for instance)</translation>
+        <translatorcomment>カッコ内は開発者のコメントと思われるため訳さず。「例えばインタラクティブな分割の後だと面白いだろう」</translatorcomment>
+        <translation>関連するFWFデータを圧縮</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2937"/>
@@ -4279,17 +4280,17 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2942"/>
         <source>Export plane info</source>
-        <translation>Export plane info</translation>
+        <translation>平面情報をエクスポート</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2945"/>
         <source>Export plane info to a CSV file (name, width, height, center, normal, dip and dip direction, etc.)</source>
-        <translation>Export plane info to a CSV file (name, width, height, center, normal, dip and dip direction, etc.)</translation>
+        <translation>平面情報を1つのCSVファイルにエクスポート（名前、幅、高さ、中心、法線、法線の傾斜角と傾斜方位等）</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2950"/>
         <source>Lock rotation about arbitrary axis</source>
-        <translation>Lock rotation about arbitrary axis</translation>
+        <translation>任意の軸で回転を固定</translation>
     </message>
     <message>
         <location filename="../ui_templates/mainWindow.ui" line="2955"/>
@@ -4301,17 +4302,17 @@ Note: the diagonal is not tested at loading time.</source>
         <location filename="../mainwindow.cpp" line="5695"/>
         <location filename="../mainwindow.cpp" line="5897"/>
         <source>Enter Full Screen</source>
-        <translation>Enter Full Screen</translation>
+        <translation>全画面にする</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2491"/>
         <source>Compute visibility</source>
-        <translation>Compute visibility</translation>
+        <translation>可視性を計算</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2492"/>
         <source>Points: %L1</source>
-        <translation>Points: %L1</translation>
+        <translation>点群: %L1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3752"/>
@@ -4337,12 +4338,12 @@ Note: the diagonal is not tested at loading time.</source>
     <message>
         <location filename="../mainwindow.cpp" line="8112"/>
         <source>Testing all possible positions</source>
-        <translation>Testing all possible positions</translation>
+        <translation>全ての可能性のある位置をテストする</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="8113"/>
         <source>%1 clouds and %2 positions</source>
-        <translation>%1 clouds and %2 positions</translation>
+        <translation>%1 点群と %2 位置</translation>
     </message>
 </context>
 <context>
@@ -4570,7 +4571,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../ui_templates/normalComputationDlg.ui" line="48"/>
         <source>Quadric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">二次曲面</translation>
     </message>
     <message>
         <location filename="../ui_templates/normalComputationDlg.ui" line="53"/>
